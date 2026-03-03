@@ -1,0 +1,497 @@
+ [
+  {
+    "kanji": "明け方",
+    "hiragana": "あけがた",
+    "english": "dawn"
+  },
+  {
+    "kanji": "青白い",
+    "hiragana": "あおじろい",
+    "english": "pale; bluish-white"
+  },
+  {
+    "kanji": "足跡",
+    "hiragana": "あしあと",
+    "english": "footprints"
+  },
+  {
+    "kanji": "売買",
+    "hiragana": "ばいばい",
+    "english": "trade; buying and selling"
+  },
+  {
+    "kanji": "売店",
+    "hiragana": "ばいてん",
+    "english": "stand; stall; booth; kiosk; store"
+  },
+  {
+    "kanji": "募集",
+    "hiragana": "ぼしゅう",
+    "english": "recruitment; invitation; taking applications; solicitation"
+  },
+  {
+    "kanji": "長男",
+    "hiragana": "ちょうなん",
+    "english": "eldest son; first-born son"
+  },
+  {
+    "kanji": "楕円",
+    "hiragana": "だえん",
+    "english": "ellipse"
+  },
+  {
+    "kanji": "大学院",
+    "hiragana": "だいがくいん",
+    "english": "graduate school"
+  },
+  {
+    "kanji": "出入口",
+    "hiragana": "でいりぐち",
+    "english": "exit and entrance"
+  },
+  {
+    "kanji": "宴会",
+    "hiragana": "えんかい",
+    "english": "party; banquet; reception; feast; dinner"
+  },
+  {
+    "kanji": "円周",
+    "hiragana": "えんしゅう",
+    "english": "circumference"
+  },
+  {
+    "kanji": "遠足",
+    "hiragana": "えんそく",
+    "english": "excursion; outing; trip"
+  },
+  {
+    "kanji": "父母",
+    "hiragana": "ふぼ",
+    "english": "father and mother; parents"
+  },
+  {
+    "kanji": "学科",
+    "hiragana": "がっか",
+    "english": "study subject; course of study​; department"
+  },
+  {
+    "kanji": "学会",
+    "hiragana": "がっかい",
+    "english": "scientific society; academic meeting; academic conference"
+  },
+  {
+    "kanji": "学力",
+    "hiragana": "がくりょく",
+    "english": "scholarly ability; scholarship; knowledge; literary ability"
+  },
+  {
+    "kanji": "外科",
+    "hiragana": "げか",
+    "english": "surgery; department of surgery"
+  },
+  {
+    "kanji": "花火",
+    "hiragana": "はなび",
+    "english": "fireworks"
+  },
+  {
+    "kanji": "半径",
+    "hiragana": "はんけい",
+    "english": "radius"
+  },
+  {
+    "kanji": "半島",
+    "hiragana": "はんとう",
+    "english": "peninsula"
+  },
+  {
+    "kanji": "発売",
+    "hiragana": "はつばい",
+    "english": "sale; release (for sale); launch (product)"
+  },
+  {
+    "kanji": "早口",
+    "hiragana": "はやぐち",
+    "english": "fast-talking; rapid talking"
+  },
+  {
+    "kanji": "外れる",
+    "hiragana": "はずれる",
+    "english": "to be disconnected; to be off; to miss the mark"
+  },
+  {
+    "kanji": "閉会",
+    "hiragana": "へいかい",
+    "english": "closure (of a ceremony, event, meeting, etc.)"
+  },
+  {
+    "kanji": "昼寝",
+    "hiragana": "ひるね",
+    "english": "nap, siesta"
+  },
+  {
+    "kanji": "意地悪",
+    "hiragana": "いじわる",
+    "english": "malicious; ill-tempered; unkind"
+  },
+  {
+    "kanji": "移転",
+    "hiragana": "いてん",
+    "english": "moving; relocation; change of address"
+  },
+  {
+    "kanji": "一旦",
+    "hiragana": "いったん",
+    "english": "once; for a short time; briefly; temporarily"
+  },
+  {
+    "kanji": "寺院",
+    "hirag": "' じいん",
+    "english": "Buddhist temple; religious building"
+  },
+  {
+    "kanji": "人文科学",
+    "hiragana": "じんぶんかがく",
+    "english": "humanities; social sciences; liberal arts"
+  },
+  {
+    "kanji": "自習",
+    "hiragana": "じしゅう",
+    "english": "self-study; teaching oneself"
+  },
+  {
+    "kanji": "時速",
+    "hiragana": "じそく",
+    "english": "speed (per hour)"
+  },
+  {
+    "kanji": "実習",
+    "hiragana": "じっしゅう",
+    "english": "practice; training; practical exercise; drill"
+  },
+  {
+    "kanji": "過半数",
+    "hiragana": "かはんすう",
+    "english": "majority"
+  },
+  {
+    "kanji": "開会",
+    "hiragana": "かいかい",
+    "english": "opening of a meeting; starting (an event, etc)"
+  },
+  {
+    "kanji": "会館",
+    "hiragana": "かいかん",
+    "english": "meeting hall; assembly hall"
+  },
+  {
+    "kanji": "回転",
+    "hiragana": "かいてん",
+    "english": "rotation; revolution; turning"
+  },
+  {
+    "kanji": "加速",
+    "hiragana": "かそく",
+    "english": "acceleration; speeding up"
+  },
+  {
+    "kanji": "加速度",
+    "hiragana": "かそくど",
+    "english": "acceleration"
+  },
+  {
+    "kanji": "見学",
+    "hiragana": "けんがく",
+    "english": "study by observation; field trip; tour; review; inspection"
+  },
+  {
+    "kanji": "国王",
+    "hiragana": "こくおう",
+    "english": "king; queen; monarch; sovereign"
+  },
+  {
+    "kanji": "国立",
+    "hiragana": "こくりつ",
+    "english": "national"
+  },
+  {
+    "kanji": "国籍",
+    "hiragana": "こくせき",
+    "english": "nationality; citizenship"
+  },
+  {
+    "kanji": "転がる",
+    "hiragana": "ころがる",
+    "english": "to roll; to fall over; to lie down"
+  },
+  {
+    "kanji": "転がす",
+    "hiragana": "ころがす",
+    "english": "to roll; to turn over"
+  },
+  {
+    "kanji": "校舎",
+    "hiragana": "こうしゃ",
+    "english": "school building; schoolhouse"
+  },
+  {
+    "kanji": "校庭",
+    "hiragana": "こうてい",
+    "english": "schoolyard; playground; school grounds; campus"
+  },
+  {
+    "kanji": "待合室",
+    "hiragana": "まちあいしつ",
+    "english": "waiting room"
+  },
+  {
+    "kanji": "待ち合わせる",
+    "hiragana": "まちあわせる",
+    "english": "to rendezvous; to meet at a prearranged place and time; to arrange to meet"
+  },
+  {
+    "kanji": "窓口",
+    "hiragana": "まどぐち",
+    "english": "ticket window; teller window; counter"
+  },
+  {
+    "kanji": "毎度",
+    "hiragana": "まいど",
+    "english": "each time; always; often; thank you for your continued patronage​"
+  },
+  {
+    "kanji": "真っ青",
+    "hiragana": "まっさお",
+    "english": "deep blue; bright blue​; ghastly pale; white as a sheet"
+  },
+  {
+    "kanji": "真っ白",
+    "hiragana": "まっしろ",
+    "english": "pure white; blank"
+  },
+  {
+    "kanji": "名刺",
+    "hiragana": "めいし",
+    "english": "business card"
+  },
+  {
+    "kanji": "店屋",
+    "hiragana": "みせや",
+    "english": "store; shop"
+  },
+  {
+    "kanji": "木材",
+    "hiragana": "もくざい",
+    "english": "lumber; timber; wood"
+  },
+  {
+    "kanji": "元々",
+    "hiragana": "もともと",
+    "english": "originally, by nature, from the start"
+  },
+  {
+    "kanji": "内科",
+    "hiragana": "ないか",
+    "english": "internal medicine"
+  },
+  {
+    "kanji": "並木",
+    "hiragana": "なみき",
+    "english": "roadside tree; row of trees"
+  },
+  {
+    "kanji": "入社",
+    "hiragana": "にゅうしゃ",
+    "english": "joining a company"
+  },
+  {
+    "kanji": "押さえる",
+    "hiragana": "おさえる",
+    "english": "to pin down; to hold down; to press down"
+  },
+  {
+    "kanji": "理科",
+    "hiragana": "りか",
+    "english": "science (department; course)"
+  },
+  {
+    "kanji": "領収",
+    "hiragana": "りょうしゅう",
+    "english": "receipt (of money); receiving"
+  },
+  {
+    "kanji": "再三",
+    "hiragana": "さいさん",
+    "english": "again and again; repeatedly"
+  },
+  {
+    "kanji": "刺さる",
+    "hiragana": "ささる",
+    "english": "to stick into (with a sharp point); to prick; to get stuck (in);"
+  },
+  {
+    "kanji": "刺身",
+    "hiragana": "さしみ",
+    "english": "sashimi (raw sliced fish, shellfish or crustaceans)"
+  },
+  {
+    "kanji": "早速",
+    "hiragana": "さっそく",
+    "english": "at once; immediately; without delay; promptly"
+  },
+  {
+    "kanji": "刺す",
+    "hiragana": "さす",
+    "english": "to pierce; to stab; to prick; to stick; to thrust; to sting"
+  },
+  {
+    "kanji": "青少年",
+    "hiragana": "せいしょうねん",
+    "english": "youth; young person"
+  },
+  {
+    "kanji": "赤道",
+    "hiragana": "せきどう",
+    "english": "equator"
+  },
+  {
+    "kanji": "社会科学",
+    "hiragana": "しゃかいかがく",
+    "english": "social science"
+  },
+  {
+    "kanji": "社説",
+    "hiragana": "しゃせつ",
+    "english": "editorial; leading article; leader"
+  },
+  {
+    "kanji": "司会",
+    "hiragana": "しかい",
+    "english": "master of ceremonies; leading a meeting; presenter; host"
+  },
+  {
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "english": "Japanese bullet train"
+  },
+  {
+    "kanji": "白髪",
+    "hiragana": "しらが",
+    "english": "white hair; grey hair"
+  },
+  {
+    "kanji": "自然科学",
+    "hiragana": "しぜんかがく",
+    "english": "natural science"
+  },
+  {
+    "kanji": "書店",
+    "hiragana": "しょてん",
+    "english": "bookshop; bookstore"
+  },
+  {
+    "kanji": "商社",
+    "hiragana": "しょうしゃ",
+    "english": "trading company; firm"
+  },
+  {
+    "kanji": "商店",
+    "hiragana": "しょうてん",
+    "english": "shop; small store; business; firm"
+  },
+  {
+    "kanji": "集合",
+    "hiragana": "しゅうごう",
+    "english": "gathering; assembly; meeting"
+  },
+  {
+    "kanji": "習字",
+    "hiragana": "しゅうじ",
+    "english": "calligraphy; penmanship"
+  },
+  {
+    "kanji": "集会",
+    "hiragana": "しゅうかい",
+    "english": "meeting; assembly; gathering; convention; rally"
+  },
+  {
+    "kanji": "速力",
+    "hiragana": "そくりょく",
+    "english": "speed"
+  },
+  {
+    "kanji": "速達",
+    "hiragana": "そくたつ",
+    "english": "express; special delivery"
+  },
+  {
+    "kanji": "足袋",
+    "hiragana": "たび",
+    "english": "Japanese socks (with split toe)"
+  },
+  {
+    "kanji": "足る",
+    "hiragana": "たる",
+    "english": "to be sufficient; to be enough​; to be worth doing; to be worthy of; to deserve​"
+  },
+  {
+    "kanji": "特売",
+    "hiragana": "とくばい",
+    "english": "special sale"
+  },
+  {
+    "kanji": "透明",
+    "hiragana": "とうめい",
+    "english": "transparent; clear"
+  },
+  {
+    "kanji": "東洋",
+    "hiragana": "とうよう",
+    "english": "Orient"
+  },
+  {
+    "kanji": "売れ行き",
+    "hiragana": "うれゆき",
+    "english": "sales; demand"
+  },
+  {
+    "kanji": "売上",
+    "hiragana": "うりあげ",
+    "english": "amount sold; sales; proceeds; turnover"
+  },
+  {
+    "kanji": "売り切れ",
+    "hiragana": "うりきれ",
+    "english": "sold out"
+  },
+  {
+    "kanji": "売り切れる",
+    "hiragana": "うりきれる",
+    "english": "to be sold out"
+  },
+  {
+    "kanji": "我が",
+    "hiragana": "わが",
+    "english": "my; our; one's own"
+  },
+  {
+    "kanji": "洋品店",
+    "hiragana": "ようひんてん",
+    "english": "shop that handles Western-style apparel and accessories"
+  },
+  {
+    "kanji": "輸血",
+    "hiragana": "ゆけつ",
+    "english": "blood transfusion"
+  },
+  {
+    "kanji": "輸送",
+    "hiragana": "ゆそう",
+    "english": "transport; transportation"
+  },
+  {
+    "kanji": "材木",
+    "hiragana": "ざいもく",
+    "english": "lumber; timber"
+  }
+]

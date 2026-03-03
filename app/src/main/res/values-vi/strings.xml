@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JapanLib</string>
+    <string name="loading">Đang tải…</string>
+    <string name="error_loading">Lỗi khi tải dữ liệu</string>
+
+    <!-- Navigation Bar -->
+    <string name="dictionary_item">Từ điển</string>
+    <string name="learning_item">Học tập</string>
+    <string name="translator_item">Dịch</string>
+    <string name="settings_item">Cài đặt</string>
+
+    <!-- Dictionary Screen -->
+    <string name="learning">Học tập</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="add">Thêm</string>
+    <string name="theme_pack_title">Gói từ vựng theo chủ đề</string>
+    <string name="jlpt_list_title">Từ vựng JLPT</string>
+    <string name="custom_list_title">Danh sách tùy chỉnh</string>
+    <string name="retry">Thử lại</string>
+    <string name="no_jlpt_lists">Không có danh sách JLPT</string>
+    <string name="no_theme_lists">Không có danh sách theo chủ đề</string>
+    <string name="error_loading_data">Lỗi khi tải dữ liệu</string>
+    <string name="no_custom_lists">Không có danh sách tùy chỉnh</string>
+    <string name="page_indicator">Trang %1$d / %2$d</string>
+    <string name="word_count">%1$d từ</string>
+    <string name="progress_percentage">%1$d%%</string>
+
+    <!-- Search Screen -->
+    <string name="voice">Giọng nói</string>
+    <string name="camera">Camera</string>
+    <string name="search_hint">Tìm kiếm tiếng Nhật hoặc tiếng Anh…</string>
+    <string name="suggestions">Gợi ý</string>
+    <string name="kanji_suggestion">Vẽ kanji để xem gợi ý</string>
+    <string name="clear_image">Xóa</string>
+    <string name="save">Gửi</string>
+    <string name="no_results">Không tìm thấy kết quả</string>
+    <string name="draw_kanji">Vẽ Kanji tại đây</string>
+    <string name="choose_language">Chọn ngôn ngữ</string>
+    <string name="japanese">Tiếng Nhật</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="listening">Đang nghe…</string>
+    <string name="processing">Đang xử lý…</string>
+    <string name="cancel_voice">Chạm vào bất kỳ đâu để hủy</string>
+    <string name="permission_dialog_title">Yêu cầu quyền truy cập</string>
+    <string name="micro_permission_dialog_message">
+        Bạn cần cấp quyền micro để sử dụng tính năng này.
+    </string>
+    <string name="close_dialog">Đóng</string>
+    <string name="no_detected_text">Không nhận diện được văn bản từ giọng nói</string>
+    <string name="no_detected_text_image">Không nhận diện được văn bản từ hình ảnh</string>
+    <string name="swipe_left_hint">Vuốt sang trái để xem mục tiếp theo</string>
+    <string name="swipe_right_hint">Vuốt sang phải để xem mục trước đó</string>
+    <string name="tap_to_dismiss">Chạm để đóng</string>
+
+    <!-- Detail Word Screen -->
+    <string name="save_to_custom_list">Lưu vào danh sách tùy chỉnh</string>
+    <string name="no_custom_list">Không có danh sách tùy chỉnh</string>
+    <string name="create_custom_list">Tạo thư mục mới</string>
+    <string name="enter_folder_name">Nhập tên thư mục</string>
+    <string name="create">Tạo</string>
+    <string name="screen_title">Từ điển</string>
+    <string name="definition_card">Định nghĩa</string>
+    <string name="example_card">Câu ví dụ</string>
+    <string name="no_example">Không có câu ví dụ cho từ này</string>
+    <string name="loading_example">Đang tải ví dụ...</string>
+    <string name="error_example">Lỗi khi tải ví dụ cho từ này</string>
+    <string name="kanji_card">Chi tiết Kanji</string>
+    <string name="no_kanji">Không có Kanji cho từ này</string>
+    <string name="related_words">Từ liên quan</string>
+    <string name="error_related_words">Không có từ liên quan cho từ này</string>
+
+    <!-- Settings Screen -->
+    <string name="view_your_account">Xem tài khoản của bạn</string>
+    <string name="sign_in">Đăng nhập hoặc tạo tài khoản mới</string>
+    <string name="guest_user">Người dùng khách</string>
+    <string name="cancel_dialog">Đóng</string>
+    <string name="help_and_support_title">Trợ giúp</string>
+    <string name="privacy_title">Bảo vệ quyền riêng tư</string>
+    <string name="about_title">Về chúng tôi</string>
+    <string name="rate_title">Đánh giá</string>
+    <string name="rate_content">Đánh giá ứng dụng</string>
+    <string name="help_support_content">
+    Nếu bạn gặp khó khăn khi sử dụng ứng dụng, chúng tôi luôn sẵn sàng hỗ trợ.
+    Bạn có thể tìm hướng dẫn tra từ, học từ vựng và các tính năng học tập.
+    Hãy gửi phản hồi nếu ứng dụng hoạt động chưa như mong đợi.
+    Chúng tôi luôn lắng nghe để cải thiện trải nghiệm của bạn.
+    </string>
+    <string name="privacy_policy_content">
+    Chúng tôi cam kết bảo vệ thông tin cá nhân của bạn.
+    Ứng dụng chỉ thu thập dữ liệu cần thiết để cải thiện trải nghiệm.
+    Thông tin của bạn được lưu trữ an toàn và không chia sẻ khi chưa có sự cho phép.
+    </string>
+    <string name="about_content">
+    Ứng dụng hỗ trợ học tiếng Nhật cho mọi trình độ.
+    Cung cấp từ điển, flashcard và ví dụ thực tế.
+    Chúng tôi mong muốn giúp việc học trở nên dễ dàng và hiệu quả hơn.
+    </string>
+    <string name="rate_app_positive">Đánh giá</string>
+    <string name="rate_app_negative">Để sau</string>
+    <string name="settings_title">Cài đặt</string>
+    <string name="appearance">GIAO DIỆN</string>
+    <string name="general">CHUNG</string>
+    <string name="support">HỖ TRỢ</string>
+    <string name="notification">THÔNG BÁO</string>
+    <string name="font_size">Cỡ chữ</string>
+    <string name="font_size_small">Nhỏ</string>
+    <string name="font_size_medium">Trung</string>
+    <string name="font_size_large">Lớn</string>
+
+    <!--Learning screen -->
+    <string name="screen_mode_title">Chế độ học tập</string>
+    <string name="flashcard_mode_title">Học bằng Flashcard</string>
+    <string name="test_mode_title">Chế độ kiểm tra</string>
+    <string name="test_mode_description">Ôn tập từ vựng và kanji với các bộ thẻ tùy chỉnh</string>
+    <string name="flashcard_mode_description">Luyện thi JLPT với các bài kiểm tra thực hành</string>
+    <string name="flashcards_title">Flashcard</string>
+    <string name="section_thematic_vocabulary">Bộ từ vựng theo chủ đề</string>
+    <string name="section_jlpt_vocabulary">Từ vựng JLPT</string>
+    <string name="section_custom_lists">Danh sách tùy chỉnh</string>
+    <string name="learning_progress">Tiến độ: %1$d%%</string>
+
+    <!-- Flashcard Screens -->
+    <string name="back">Quay lại</string>
+    <string name="play_audio">Phát âm thanh</string>
+    <string name="word_label">TỪ VỰNG</string>
+    <string name="tap_to_flip">Chạm để lật</string>
+    <string name="meaning_label">Ý NGHĨA</string>
+    <string name="reading_label">CÁCH ĐỌC</string>
+    <string name="forgot">Chưa thuộc</string>
+    <string name="remember">Đã thuộc</string>
+    <string name="learning_status">Trạng thái học tập</string>
+    <string name="more">Thêm</string>
+    <string name="start_flashcards">Bắt đầu học Flashcard</string>
+    <string name="learn_remaining_words">Học các từ còn lại</string>
+    <string name="review_forgot_words">Ôn tập từ chưa thuộc</string>
+    <string name="unknown_error">Lỗi không xác định</string>
+    <string name="no_data_available">Không có dữ liệu</string>
+    <string name="total_words">Tổng số từ</string>
+    <string name="remembered">Đã thuộc</string>
+    <string name="not_remembered">Chưa thuộc</string>
+    <string name="navigate_content_description">Điều hướng</string>
+    <string name="progress_ratio">%1$d / %2$d</string>
+
+    <!-- Learning Preferences Dialog -->
+    <string name="learning_preferences_title">Tùy chọn học tập</string>
+    <string name="learning_preferences_subtitle">Tùy chỉnh phiên học của bạn.</string>
+    <string name="shuffle_words">Trộn từ</string>
+    <string name="shuffle_words_description">Ngẫu nhiên hóa thứ tự từ.</string>
+    <string name="show_meaning_first">Hiển thị ý nghĩa trước</string>
+    <string name="done">Hoàn tất</string>
+
+    <!-- Congrat Dialog -->
+    <string name="congratulations_title">Chúc mừng!</string>
+    <string name="congratulations_subtitle">Bạn đã hoàn thành phiên học này!</string>
+    <string name="go_back">Quay lại</string>
+
+    <!-- JLPT Test Screen -->
+    <string name="no_internet_title">Không có kết nối Internet</string>
+    <string name="no_internet_message">Vui lòng kiểm tra kết nối internet và thử lại.</string>
+    <string name="jlpt_testing_title">Kiểm tra JLPT</string>
+    <string name="questions_count">%1$d câu hỏi</string>
+    <string name="status_completed">Đã hoàn thành</string>
+    <string name="status_in_progress">Đang thực hiện</string>
+    <string name="status_not_started">Chưa bắt đầu</string>
+    <string name="test_sections_title">Bài thi JLPT</string>
+    <string name="section_listening">Nghe hiểu</string>
+    <string name="section_reading">Đọc hiểu</string>
+    <string name="section_vocabulary">Từ vựng</string>
+    <string name="section_grammar">Ngữ pháp</string>
+    <string name="question_number">Câu %1$d</string>
+    <string name="progress_complete">Điểm: %1$d%%</string>
+    <string name="question_correct">%1$s Chính xác</string>
+    <string name="question_incorrect">%1$s Không chính xác</string>
+    <string name="review_answers_title">Xem lại câu trả lời</string>
+    <string name="score_format">Điểm: %1$s/ %2$d</string>
+    <string name="error_loading_test">Tải bài thi thất bại</string>
+    <string name="jlpt_test_title">Bài thi JLPT</string>
+    <string name="submit_test">Nộp bài</string>
+    <string name="answered_progress">Đã trả lời %1$d / %2$d</string>
+    <string name="audio_time_format">%1$s / %2$s</string>
+    <string name="test_paused">Bài thi đã tạm dừng</string>
+    <string name="test_paused_message">Bài thi của bạn đang được tạm dừng</string>
+    <string name="timer_label">Thời gian: %1$s</string>
+    <string name="tap_to_continue">Chạm để tiếp tục</string>
+    <string name="progress_saved">Tiến trình của bạn đã được lưu</string>
+
+    <!-- Result Screen -->
+    <string name="result_screen_title">Kết quả thi thử JLPT N4</string>
+    <string name="result_failed_to_load">Tải kết quả thất bại</string>
+    <string name="result_congratulations">Tuyệt vời! Đã hoàn thành bài kiểm tra</string>
+    <string name="result_summary_subtitle">Đây là tóm tắt kết quả của bạn.</string>
+    <string name="result_correct_answers_label">Câu trả lời đúng</string>
+    <string name="result_time_taken_label">Thời gian làm bài</string>
+    <string name="result_performance_by_section">Kết quả theo phần</string>
+    <string name="result_review_answers_button">Xem lại đáp án</string>
+    <string name="result_retake_test_button">Làm lại bài thi</string>
+    <string name="result_return_to_list_button">Quay lại danh sách bài thi</string>
+    <string name="result_accuracy_label">Độ chính xác</string>
+
+    <!-- Login Screen -->
+    <string name="login_back_description">Quay lại</string>
+    <string name="login_reset_password_title">Đặt lại mật khẩu</string>
+    <string name="login_reset_password_subtitle">Nhập địa chỉ email của bạn và chúng tôi sẽ gửi hướng dẫn đặt lại mật khẩu.</string>
+    <string name="login_email_username_placeholder">Email hoặc Tên người dùng</string>
+    <string name="login_reset_email_sent">Email đặt lại mật khẩu đã được gửi! Vui lòng kiểm tra hộp thư của bạn.</string>
+    <string name="login_send_reset_email">Gửi email đặt lại</string>
+    <string name="login_back_to_login">Quay lại Đăng nhập</string>
+    <string name="login_welcome_title">Chào mừng đến với Japan Library</string>
+    <string name="login_password_placeholder">Mật khẩu</string>
+    <string name="login_forgot_password">Quên mật khẩu?</string>
+    <string name="login_success">Đăng nhập thành công!</string>
+    <string name="login_enter_password_signin">Nhập mật khẩu và Đăng nhập!</string>
+    <string name="login_enter_password_signup">Nhập mật khẩu và Đăng ký!</string>
+    <string name="login_signup_or_login">Đăng ký hoặc Đăng nhập</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_google_button">Đăng nhập bằng Google</string>
+
+    <!-- User Info Screen -->
+    <string name="user_info_error_loading">Lỗi khi tải thông tin tài khoản</string>
+    <string name="user_info_no_email">Không có email</string>
+    <string name="user_info_guest">Khách</string>
+    <string name="user_info_sign_out">Đăng xuất</string>
+    <string name="user_info_profile_description">Hồ sơ</string>
+    <string name="user_info_email_label">Email</string>
+    <string name="user_info_name_label">Tên hiển thị</string>
+    <string name="user_info_password_label">Mật khẩu hiện tại</string>
+    <string name="user_info_new_password_label">Mật khẩu mới</string>
+    <string name="user_info_hide_password">Ẩn mật khẩu</string>
+    <string name="user_info_show_password">Hiển thị mật khẩu</string>
+    <string name="user_info_current_password_placeholder">Nhập mật khẩu hiện tại để lưu thay đổi</string>
+    <string name="user_info_new_password_placeholder">Nhập mật khẩu mới</string>
+    <string name="user_info_saving">Đang lưu...</string>
+    <string name="user_info_save_changes">Lưu thay đổi</string>
+    <string name="user_info_update_success">Thành công</string>
+    <string name="user_info_update_error">Lỗi</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_app_icon_description">Biểu tượng ứng dụng JapanLib</string>
+    <string name="splash_syncing">Đang đồng bộ… %1$d%%</string>
+
+    <!-- Notification Settings -->
+    <string name="settings_notifications_title">Thông báo</string>
+    <string name="settings_notifications_enabled">Bật thông báo</string>
+    <string name="settings_notifications_enabled_desc">Nhận lời nhắc học tập và từ mới hàng ngày</string>
+    <string name="settings_reminder_time">Giờ nhắc nhở</string>
+    <string name="settings_progress_notifications">Cập nhật tiến độ</string>
+    <string name="settings_progress_notifications_desc">Nhận thông báo về thành tích học tập của bạn</string>
+    <string name="settings_review_reminders">Nhắc nhở ôn tập</string>
+    <string name="settings_review_reminders_desc">Nhắc nhở về các từ bạn cần ôn tập</string>
+    <string name="settings_daily_word">Từ vựng hàng ngày</string>
+    <string name="settings_daily_word_desc">Nhận gợi ý từ vựng ngẫu nhiên mỗi ngày</string>
+    <string name="settings_test_notification">Gửi thông báo thử nghiệm</string>
+    <string name="settings_silent_hours">Giờ yên lặng</string>
+    <string name="settings_silent_hours_desc">Không làm phiền trong những giờ này</string>
+
+    <!-- Notification Content -->
+    <string name="notification_channel_progress">Tiến độ học tập</string>
+    <string name="notification_channel_progress_desc">Thông báo về tiến độ học tập và thành tích hàng ngày</string>
+    <string name="notification_channel_reminders">Nhắc nhở ôn tập</string>
+    <string name="notification_channel_reminders_desc">Nhắc nhở ôn tập các từ bạn đã học</string>
+    <string name="notification_channel_daily_word">Từ vựng hàng ngày</string>
+    <string name="notification_channel_daily_word_desc">Từ vựng trong ngày từ danh sách học của bạn</string>
+    <string name="notification_progress_title">📊 Cập nhật tiến độ hàng ngày</string>
+    <string name="notification_word_of_day">🌸 Từ vựng của ngày</string>
+    <string name="notification_review_reminder_title">⏰ Đến lúc ôn tập rồi!</string>
+    <string name="notification_review_reminder_text">Có %1$d từ đang chờ bạn ôn tập</string>
+    <string name="notification_progress_summary">✅ Đã học %1$d từ mới</string>
+    <string name="notification_progress_streak"> • 🔥 Chuỗi %1$d ngày!</string>
+    <string name="notification_progress_detail_today">✅ Hôm nay đã học %1$d từ mới</string>
+    <string name="notification_progress_detail_week">📊 Tuần này đã học %1$d từ</string>
+    <string name="notification_progress_detail_streak">🔥 Chuỗi học tập %1$d ngày!</string>
+    <string name="notification_progress_detail_accuracy">🎯 Tỷ lệ chính xác %1$d%%</string>
+    <string name="notification_progress_detail_due">⏰ %1$d từ cần ôn tập</string>
+    <string name="notification_word_meaning_label">Ý nghĩa: %1$s</string>
+
+</resources>

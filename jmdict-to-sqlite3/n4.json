@@ -1,0 +1,2357 @@
+ [
+  {
+    "kanji": "N/A",
+    "hiragana": "あ",
+    "english": "Ah; oh"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ああ",
+    "english": "ah; yes"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アフリカ",
+    "english": "Africa"
+  },
+  {
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "english": "to rise"
+  },
+  {
+    "kanji": "挨拶",
+    "hiragana": "あいさつ",
+    "english": "to greet"
+  },
+  {
+    "kanji": "味",
+    "hiragana": "あじ",
+    "english": "flavor; taste​; uniqueness; attractiveness; experience"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アジア",
+    "english": "Asia"
+  },
+  {
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "english": "baby; infant"
+  },
+  {
+    "kanji": "赤ん坊",
+    "hiragana": "あかんぼう",
+    "english": "baby; infant"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アクセサリー",
+    "english": "accessory"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アメリカ",
+    "english": "America"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アナウンサー",
+    "english": "announcer"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "あんな",
+    "english": "such"
+  },
+  {
+    "kanji": "案内",
+    "hiragana": "あんない",
+    "english": "to guide"
+  },
+  {
+    "kanji": "安心",
+    "hiragana": "あんしん",
+    "english": "peace of mind"
+  },
+  {
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "english": "safety; security​"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アルバイト",
+    "english": "part-time job"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "アルコール",
+    "english": "alcohol"
+  },
+  {
+    "kanji": "浅い",
+    "hiragana": "あさい",
+    "english": "shallow"
+  },
+  {
+    "kanji": "遊び",
+    "hiragana": "あそび",
+    "english": "playing"
+  },
+  {
+    "kanji": "集まる",
+    "hiragana": "あつまる",
+    "english": "to gather; to collect; to assemble"
+  },
+  {
+    "kanji": "集める",
+    "hiragana": "あつめる",
+    "english": "to collect; to assemble; to gather"
+  },
+  {
+    "kanji": "謝る",
+    "hiragana": "あやまる",
+    "english": "to apologize"
+  },
+  {
+    "kanji": "倍",
+    "hiragana": "ばい",
+    "english": "double"
+  },
+  {
+    "kanji": "番組",
+    "hiragana": "ばんぐみ",
+    "english": "program (e.g. TV)"
+  },
+  {
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "english": "place"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ベル",
+    "english": "bell"
+  },
+  {
+    "kanji": "美術館",
+    "hiragana": "びじゅつかん",
+    "english": "art gallery; art museum"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "びっくり",
+    "english": "to be surprised"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ビル",
+    "english": "building"
+  },
+  {
+    "kanji": "僕",
+    "hiragana": "ぼく",
+    "english": "I (used by males)"
+  },
+  {
+    "kanji": "貿易",
+    "hiragana": "ぼうえき",
+    "english": "trade"
+  },
+  {
+    "kanji": "部長",
+    "hiragana": "ぶちょう",
+    "english": "manager; head (chief, director) of a section or department"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ぶどう",
+    "english": "grapes"
+  },
+  {
+    "kanji": "文学",
+    "hiragana": "ぶんがく",
+    "english": "literature"
+  },
+  {
+    "kanji": "文化",
+    "hiragana": "ぶんか",
+    "english": "culture"
+  },
+  {
+    "kanji": "文法",
+    "hiragana": "ぶんぽう",
+    "english": "grammar"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ちゃん",
+    "english": "suffix for familiar female person"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "チェック",
+    "english": "to check"
+  },
+  {
+    "kanji": "血",
+    "hiragana": "ち",
+    "english": "blood"
+  },
+  {
+    "kanji": "力",
+    "hiragana": "ちから",
+    "english": "energy; force; strength; might; power"
+  },
+  {
+    "kanji": "地理",
+    "hiragana": "ちり",
+    "english": "geography"
+  },
+  {
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "english": "junior high school; middle school"
+  },
+  {
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "english": "caution"
+  },
+  {
+    "kanji": "注射",
+    "hiragana": "ちゅうしゃ",
+    "english": "injection"
+  },
+  {
+    "kanji": "駐車場",
+    "hiragana": "ちゅうしゃじょう",
+    "english": "parking lot"
+  },
+  {
+    "kanji": "大分",
+    "hiragana": "だいぶ",
+    "english": "considerably; greatly; a lot​"
+  },
+  {
+    "kanji": "大学生",
+    "hiragana": "だいがくせい",
+    "english": "university student; college student"
+  },
+  {
+    "kanji": "大事",
+    "hiragana": "だいじ",
+    "english": "important; serious; crucial"
+  },
+  {
+    "kanji": "大体",
+    "hiragana": "だいたい",
+    "english": "roughly"
+  },
+  {
+    "kanji": "暖房",
+    "hiragana": "だんぼう",
+    "english": "heating"
+  },
+  {
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "english": "man; male"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "できるだけ",
+    "english": "as much as possible"
+  },
+  {
+    "kanji": "電報",
+    "hiragana": "でんぽう",
+    "english": "telegram"
+  },
+  {
+    "kanji": "電灯",
+    "hiragana": "でんとう",
+    "english": "electric light"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "どんどん",
+    "english": "rapidly; more and more"
+  },
+  {
+    "kanji": "泥棒",
+    "hiragana": "どろぼう",
+    "english": "thief"
+  },
+  {
+    "kanji": "動物園",
+    "hiragana": "どうぶつえん",
+    "english": "zoo; zoological gardens"
+  },
+  {
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "english": "tool"
+  },
+  {
+    "kanji": "枝",
+    "hiragana": "えだ",
+    "english": "branch"
+  },
+  {
+    "kanji": "遠慮",
+    "hiragana": "えんりょ",
+    "english": "reserve; refraining"
+  },
+  {
+    "kanji": "選ぶ",
+    "hiragana": "えらぶ",
+    "english": "to choose"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "エスカレーター",
+    "english": "escalator"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ファックス",
+    "english": "fax"
+  },
+  {
+    "kanji": "不便",
+    "hiragana": "ふべん",
+    "english": "inconvenience"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "english": "to increase"
+  },
+  {
+    "kanji": "深い",
+    "hiragana": "ふかい",
+    "english": "deep"
+  },
+  {
+    "kanji": "復習",
+    "hiragana": "ふくしゅう",
+    "english": "review (of learned material); revision"
+  },
+  {
+    "kanji": "複雑",
+    "hiragana": "ふくざつ",
+    "english": "complexity; complication"
+  },
+  {
+    "kanji": "踏む",
+    "hiragana": "ふむ",
+    "english": "to step on"
+  },
+  {
+    "kanji": "船",
+    "hiragana": "ふね",
+    "english": "ship"
+  },
+  {
+    "kanji": "降り出す",
+    "hiragana": "ふりだす",
+    "english": "to start to rain"
+  },
+  {
+    "kanji": "布団",
+    "hiragana": "ふとん",
+    "english": "Japanese bedding, futon"
+  },
+  {
+    "kanji": "太る",
+    "hiragana": "ふとる",
+    "english": "to become fat"
+  },
+  {
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "english": "usually"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ガラス",
+    "english": "a glass"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ガソリン",
+    "english": "gasoline; petrol"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ガソリンスタンド",
+    "english": "petrol station"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ガス",
+    "english": "petrol"
+  },
+  {
+    "kanji": "原因",
+    "hiragana": "げんいん",
+    "english": "cause"
+  },
+  {
+    "kanji": "下宿",
+    "hiragana": "げしゅく",
+    "english": "lodging"
+  },
+  {
+    "kanji": "技術",
+    "hiragana": "ぎじゅつ",
+    "english": "art,technology,skill"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ごちそう",
+    "english": "a feast"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ごみ",
+    "english": "rubbish"
+  },
+  {
+    "kanji": "ご覧になる",
+    "hiragana": "ごらんになる",
+    "english": "(respectful) to see"
+  },
+  {
+    "kanji": "ご主人",
+    "hiragana": "ごしゅじん",
+    "english": "your husband; her husband"
+  },
+  {
+    "kanji": "ご存じ",
+    "hiragana": "ごぞんじ",
+    "english": "knowing"
+  },
+  {
+    "kanji": "具合",
+    "hiragana": "ぐあい",
+    "english": "condition; health"
+  },
+  {
+    "kanji": "葉",
+    "hiragana": "は",
+    "english": "leaves; leaf"
+  },
+  {
+    "kanji": "拝見",
+    "hiragana": "はいけん",
+    "english": "seeing; looking at​"
+  },
+  {
+    "kanji": "歯医者",
+    "hiragana": "はいしゃ",
+    "english": "dentist"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "はっきり",
+    "english": "clearly"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "english": "to carry"
+  },
+  {
+    "kanji": "花見",
+    "hiragana": "はなみ",
+    "english": "cherry blossom viewing; flower viewing"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ハンドバッグ",
+    "english": "handbag"
+  },
+  {
+    "kanji": "反対",
+    "hiragana": "はんたい",
+    "english": "opposition"
+  },
+  {
+    "kanji": "払う",
+    "hiragana": "はらう",
+    "english": "to pay"
+  },
+  {
+    "kanji": "発音",
+    "hiragana": "はつおん",
+    "english": "pronunciation"
+  },
+  {
+    "kanji": "林",
+    "hiragana": "はやし",
+    "english": "woods; forest"
+  },
+  {
+    "kanji": "恥ずかしい",
+    "hiragana": "はずかしい",
+    "english": "embarrassed"
+  },
+  {
+    "kanji": "変",
+    "hiragana": "へん",
+    "english": "strange; peculiar; weird"
+  },
+  {
+    "kanji": "返事",
+    "hiragana": "へんじ",
+    "english": "reply; answer; response"
+  },
+  {
+    "kanji": "火",
+    "hiragana": "ひ",
+    "english": "fire"
+  },
+  {
+    "kanji": "酷い",
+    "hiragana": "ひどい",
+    "english": "terrible; awful​"
+  },
+  {
+    "kanji": "冷える",
+    "hiragana": "ひえる",
+    "english": "to grow cold"
+  },
+  {
+    "kanji": "髭",
+    "hiragana": "ひげ",
+    "english": "beard"
+  },
+  {
+    "kanji": "非常に",
+    "hiragana": " ひじょうに",
+    "english": "extremely"
+  },
+  {
+    "kanji": "光",
+    "hiragana": "ひかり",
+    "english": "light"
+  },
+  {
+    "kanji": "光る",
+    "hiragana": "ひかる",
+    "english": "to shine"
+  },
+  {
+    "kanji": "引き出し",
+    "hiragana": "ひきだし",
+    "english": "drawer"
+  },
+  {
+    "kanji": "引き出す",
+    "hiragana": "ひきだす",
+    "english": "to withdraw"
+  },
+  {
+    "kanji": "引っ越す",
+    "hiragana": "ひっこす",
+    "english": "to move house"
+  },
+  {
+    "kanji": "飛行場",
+    "hiragana": "ひこうじょう",
+    "english": "airfield; airport"
+  },
+  {
+    "kanji": "開く",
+    "hiragana": "ひらく",
+    "english": "to open; to undo; to unseal; to unpack"
+  },
+  {
+    "kanji": "拾う",
+    "hiragana": "ひろう",
+    "english": "to pick up"
+  },
+  {
+    "kanji": "昼間",
+    "hiragana": "ひるま",
+    "english": "daytime; during the day"
+  },
+  {
+    "kanji": "昼休み",
+    "hiragana": "ひるやすみ",
+    "english": "lunch break; noon recess; noon rest period"
+  },
+  {
+    "kanji": "久しぶり",
+    "hiragana": "ひさしぶり",
+    "english": "after a long time"
+  },
+  {
+    "kanji": "褒める",
+    "hiragana": "ほめる",
+    "english": "to praise"
+  },
+  {
+    "kanji": "翻訳",
+    "hiragana": "ほんやく",
+    "english": "translation"
+  },
+  {
+    "kanji": "星",
+    "hiragana": "ほし",
+    "english": "star"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ほとんど",
+    "english": "mostly"
+  },
+  {
+    "kanji": "法律",
+    "hiragana": "ほうりつ",
+    "english": "law"
+  },
+  {
+    "kanji": "放送",
+    "hiragana": "ほうそう",
+    "english": "to broadcast"
+  },
+  {
+    "kanji": "一度",
+    "hiragana": "いちど",
+    "english": "once; one time; on one occasion"
+  },
+  {
+    "kanji": "以外",
+    "hiragana": "いがい",
+    "english": "with the exception of; excepting"
+  },
+  {
+    "kanji": "医学",
+    "hiragana": "いがく",
+    "english": "medical science; medicine"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "いじめる",
+    "english": "to tease"
+  },
+  {
+    "kanji": "以上",
+    "hiragana": "いじょう",
+    "english": "... and more; ... and upwards​"
+  },
+  {
+    "kanji": "以下",
+    "hiragana": "いか",
+    "english": "not exceeding"
+  },
+  {
+    "kanji": "意見",
+    "hiragana": "いけん",
+    "english": "opinion; view; comment"
+  },
+  {
+    "kanji": "生き物",
+    "hiragana": "いきもの",
+    "english": "living thing"
+  },
+  {
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "english": "to live"
+  },
+  {
+    "kanji": "以内",
+    "hiragana": "いない",
+    "english": "within"
+  },
+  {
+    "kanji": "田舎",
+    "hiragana": "いなか",
+    "english": "countryside"
+  },
+  {
+    "kanji": "祈る",
+    "hiragana": "いのる",
+    "english": "to pray"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "いっぱい",
+    "english": "full"
+  },
+  {
+    "kanji": "色んな",
+    "hiragana": "いろんな",
+    "english": "various"
+  },
+  {
+    "kanji": "石",
+    "hiragana": "いし",
+    "english": "stone"
+  },
+  {
+    "kanji": "急ぐ",
+    "hiragana": "いそぐ",
+    "english": "to hurry; to rush; to hasten; to make something happen sooner"
+  },
+  {
+    "kanji": "一生懸命",
+    "hiragana": "いっしょうけんめい",
+    "english": "very hard; with utmost effort"
+  },
+  {
+    "kanji": "頂く",
+    "hiragana": "いただく",
+    "english": "(humble) to receive"
+  },
+  {
+    "kanji": "致す",
+    "hiragana": "いたす",
+    "english": "(humble) to do"
+  },
+  {
+    "kanji": "糸",
+    "hiragana": "いと",
+    "english": "thread"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ジャム",
+    "english": "jam"
+  },
+  {
+    "kanji": "字",
+    "hiragana": "じ",
+    "english": "character"
+  },
+  {
+    "kanji": "時代",
+    "hiragana": "じだい",
+    "english": "period"
+  },
+  {
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "english": "accident"
+  },
+  {
+    "kanji": "事務所",
+    "hiragana": "じむしょ",
+    "english": "office"
+  },
+  {
+    "kanji": "神社",
+    "hiragana": "じんじゃ",
+    "english": "Shinto shrine"
+  },
+  {
+    "kanji": "人口",
+    "hiragana": "じんこう",
+    "english": "population"
+  },
+  {
+    "kanji": "人生",
+    "hiragana": "じんせい",
+    "english": "human life"
+  },
+  {
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "english": "earthquake"
+  },
+  {
+    "kanji": "辞典",
+    "hiragana": "じてん",
+    "english": "dictionary"
+  },
+  {
+    "kanji": "自由",
+    "hiragana": "じゆう",
+    "english": "freedom"
+  },
+  {
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "english": "woman; female"
+  },
+  {
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "english": "to prepare"
+  },
+  {
+    "kanji": "十分",
+    "hiragana": "じゅうぶん",
+    "english": "enough; sufficient; plenty; adequate; satisfactory"
+  },
+  {
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "english": "judo"
+  },
+  {
+    "kanji": "住所",
+    "hiragana": "じゅうしょ",
+    "english": "address"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "カーテン",
+    "english": "curtain"
+  },
+  {
+    "kanji": "壁",
+    "hiragana": "かべ",
+    "english": "wall"
+  },
+  {
+    "kanji": "課長",
+    "hiragana": "かちょう",
+    "english": "section manager; section chief"
+  },
+  {
+    "kanji": "帰り",
+    "hiragana": "かえり",
+    "english": "return; coming back"
+  },
+  {
+    "kanji": "変える",
+    "hiragana": "かえる",
+    "english": "to change; to transform"
+  },
+  {
+    "kanji": "科学",
+    "hiragana": "かがく",
+    "english": "science"
+  },
+  {
+    "kanji": "鏡",
+    "hiragana": "かがみ",
+    "english": "mirror"
+  },
+  {
+    "kanji": "海岸",
+    "hiragana": "かいがん",
+    "english": "coast"
+  },
+  {
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "english": "meeting; conference; session; assembly"
+  },
+  {
+    "kanji": "会議室",
+    "hiragana": "かいぎしつ",
+    "english": "conference room; conference hall; council room"
+  },
+  {
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "english": "assembly hall; meeting place; venue; grounds"
+  },
+  {
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "english": "conversation"
+  },
+  {
+    "kanji": "火事",
+    "hiragana": "かじ",
+    "english": "fire"
+  },
+  {
+    "kanji": "格好",
+    "hiragana": "かっこう",
+    "english": "appearance"
+  },
+  {
+    "kanji": "構う",
+    "hiragana": "かまう",
+    "english": "to mind"
+  },
+  {
+    "kanji": "髪",
+    "hiragana": "かみ",
+    "english": "hair"
+  },
+  {
+    "kanji": "噛む",
+    "hiragana": "かむ",
+    "english": "to bite,to chew"
+  },
+  {
+    "kanji": "家内",
+    "hiragana": "かない",
+    "english": "(my) wife; inside the home; one's family"
+  },
+  {
+    "kanji": "必ず",
+    "hiragana": "かならず",
+    "english": "always; certainly"
+  },
+  {
+    "kanji": "悲しい",
+    "hiragana": "かなしい",
+    "english": "sad"
+  },
+  {
+    "kanji": "考える",
+    "hiragana": "かんがえる",
+    "english": "to think"
+  },
+  {
+    "kanji": "看護婦",
+    "hiragana": "かんごふ",
+    "english": "female nurse"
+  },
+  {
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "english": "relationship"
+  },
+  {
+    "kanji": "彼女",
+    "hiragana": "かのじょ",
+    "english": "she; her​"
+  },
+  {
+    "kanji": "簡単",
+    "hiragana": "かんたん",
+    "english": "simple; easy"
+  },
+  {
+    "kanji": "彼",
+    "hiragana": "かれ",
+    "english": "he; him​; his"
+  },
+  {
+    "kanji": "彼ら",
+    "hiragana": "かれら",
+    "english": "they; them"
+  },
+  {
+    "kanji": "形",
+    "hiragana": "かたち",
+    "english": "shape"
+  },
+  {
+    "kanji": "片付ける",
+    "hiragana": "かたづける",
+    "english": "to tidy up"
+  },
+  {
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "english": "hard"
+  },
+  {
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "english": "to win"
+  },
+  {
+    "kanji": "乾く",
+    "hiragana": "かわく",
+    "english": "to get dry"
+  },
+  {
+    "kanji": "代わり",
+    "hiragana": "かわり",
+    "english": "instead; in place"
+  },
+  {
+    "kanji": "変わる",
+    "hiragana": "かわる",
+    "english": "to change"
+  },
+  {
+    "kanji": "通う",
+    "hiragana": "かよう",
+    "english": "to commute"
+  },
+  {
+    "kanji": "飾る",
+    "hiragana": "かざる",
+    "english": "to decorate"
+  },
+  {
+    "kanji": "毛",
+    "hiragana": "け",
+    "english": "hair or fur"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ケーキ",
+    "english": "cake"
+  },
+  {
+    "kanji": "怪我",
+    "hiragana": "けが",
+    "english": "to injure"
+  },
+  {
+    "kanji": "計画",
+    "hiragana": "けいかく",
+    "english": "to plan"
+  },
+  {
+    "kanji": "無理",
+    "hiragana": "むり",
+    "english": "impossible"
+  },
+  {
+    "kanji": "虫",
+    "hiragana": "むし",
+    "english": "insect"
+  },
+  {
+    "kanji": "息子",
+    "hiragana": "むすこ",
+    "english": "son"
+  },
+  {
+    "kanji": "娘",
+    "hiragana": "むすめ",
+    "english": "daughter"
+  },
+  {
+    "kanji": "投げる",
+    "hiragana": "なげる",
+    "english": "to throw or cast away"
+  },
+  {
+    "kanji": "泣く",
+    "hiragana": "なく",
+    "english": "to weep"
+  },
+  {
+    "kanji": "無くなる",
+    "hiragana": " なくなる",
+    "english": "to disappear; to get lost"
+  },
+  {
+    "kanji": "亡くなる",
+    "hiragana": "なくなる",
+    "english": "to die"
+  },
+  {
+    "kanji": "生",
+    "hiragana": "なま",
+    "english": "raw"
+  },
+  {
+    "kanji": "直る",
+    "hiragana": "なおる",
+    "english": "to be fixed,to be repaired"
+  },
+  {
+    "kanji": "治る",
+    "hiragana": "なおる",
+    "english": "to be cured; to heal"
+  },
+  {
+    "kanji": "慣れる",
+    "hiragana": "なれる",
+    "english": "to get used to"
+  },
+  {
+    "kanji": "鳴る",
+    "hiragana": "なる",
+    "english": "to sound"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "なるほど",
+    "english": "now I understand"
+  },
+  {
+    "kanji": "寝坊",
+    "hiragana": "ねぼう",
+    "english": "sleeping in late; oversleeping"
+  },
+  {
+    "kanji": "値段",
+    "hiragana": "ねだん",
+    "english": "price; cost"
+  },
+  {
+    "kanji": "眠い",
+    "hiragana": "ねむい",
+    "english": "sleepy"
+  },
+  {
+    "kanji": "眠る",
+    "hiragana": "ねむる",
+    "english": "to sleep"
+  },
+  {
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "english": "fever"
+  },
+  {
+    "kanji": "苦い",
+    "hiragana": "にがい",
+    "english": "bitter"
+  },
+  {
+    "kanji": "逃げる",
+    "hiragana": "にげる",
+    "english": "to escape"
+  },
+  {
+    "kanji": "二階建て",
+    "hiragana": "にかいだて",
+    "english": "two-storied building"
+  },
+  {
+    "kanji": "人形",
+    "hiragana": "にんぎょう",
+    "english": "doll"
+  },
+  {
+    "kanji": "匂い",
+    "hiragana": "におい",
+    "english": "a smell"
+  },
+  {
+    "kanji": "似る",
+    "hiragana": "にる",
+    "english": "to be similar"
+  },
+  {
+    "kanji": "喉",
+    "hiragana": "のど",
+    "english": "throat"
+  },
+  {
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "english": "to remain"
+  },
+  {
+    "kanji": "乗り換える",
+    "hiragana": "のりかえる",
+    "english": "to change between buses or trains"
+  },
+  {
+    "kanji": "乗り物",
+    "hiragana": "のりもの",
+    "english": "vehicle"
+  },
+  {
+    "kanji": "濡れる",
+    "hiragana": "ぬれる",
+    "english": "to get wet"
+  },
+  {
+    "kanji": "塗る",
+    "hiragana": "ぬる",
+    "english": "to paint; to plaster"
+  },
+  {
+    "kanji": "盗む",
+    "hiragana": "ぬすむ",
+    "english": "to steal"
+  },
+  {
+    "kanji": "入学",
+    "hiragana": "にゅうがく",
+    "english": "entry to school or university; enrollment"
+  },
+  {
+    "kanji": "入院",
+    "hiragana": "にゅういん",
+    "english": "hospitalization"
+  },
+  {
+    "kanji": "落ちる",
+    "hiragana": "おちる",
+    "english": "to fall or drop"
+  },
+  {
+    "kanji": "踊り",
+    "hiragana": "おどり",
+    "english": "a dance"
+  },
+  {
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "english": "to be surprised"
+  },
+  {
+    "kanji": "踊る",
+    "hiragana": "おどる",
+    "english": "to dance"
+  },
+  {
+    "kanji": "お出でになる",
+    "hiragana": "  おいでになる",
+    "english": "(respectful) to be"
+  },
+  {
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "english": "congratulation"
+  },
+  {
+    "kanji": "お嬢さん",
+    "hiragana": "おじょうさん",
+    "english": "(another's) daughter"
+  },
+  {
+    "kanji": "可笑しい",
+    "hiragana": "おかしい",
+    "english": "strange or funny"
+  },
+  {
+    "kanji": "行う",
+    "hiragana": "おこなう",
+    "english": "to perform; to do; to carry out"
+  },
+  {
+    "kanji": "怒る",
+    "hiragana": "おこる",
+    "english": "to be angry"
+  },
+  {
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "english": "to wake"
+  },
+  {
+    "kanji": "億",
+    "hiragana": "おく",
+    "english": "one hundred million"
+  },
+  {
+    "kanji": "屋上",
+    "hiragana": "おくじょう",
+    "english": "rooftop​"
+  },
+  {
+    "kanji": "遅れる",
+    "hiragana": "おくれる",
+    "english": "to be late"
+  },
+  {
+    "kanji": "贈り物",
+    "hiragana": "おくりもの",
+    "english": "present; gift"
+  },
+  {
+    "kanji": "送る",
+    "hiragana": "おくる",
+    "english": "to send"
+  },
+  {
+    "kanji": "お祭り",
+    "hiragana": "おまつり",
+    "english": "festival"
+  },
+  {
+    "kanji": "お見舞い",
+    "hiragana": "おみまい",
+    "english": "visiting ill or distressed people"
+  },
+  {
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "english": "souvenir"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "おもちゃ",
+    "english": "toy"
+  },
+  {
+    "kanji": "思い出す",
+    "hiragana": "おもいだす",
+    "english": "to remember"
+  },
+  {
+    "kanji": "表",
+    "hiragana": "おもて",
+    "english": "the front"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "オートバイ",
+    "english": "motorcycle"
+  },
+  {
+    "kanji": "お礼",
+    "hiragana": "おれい",
+    "english": "thanks"
+  },
+  {
+    "kanji": "折れる",
+    "hiragana": "おれる",
+    "english": "to break; to be broken"
+  },
+  {
+    "kanji": "下りる",
+    "hiragana": "おりる",
+    "english": "to get off"
+  },
+  {
+    "kanji": "折る",
+    "hiragana": "おる",
+    "english": "to break or to fold"
+  },
+  {
+    "kanji": "押し入れ",
+    "hiragana": "おしいれ",
+    "english": "closet"
+  },
+  {
+    "kanji": "仰る",
+    "hiragana": "おっしゃる",
+    "english": "(respectful) to say"
+  },
+  {
+    "kanji": "お宅",
+    "hiragana": "おたく",
+    "english": "your home"
+  },
+  {
+    "kanji": "音",
+    "hiragana": "おと",
+    "english": "sound; note"
+  },
+  {
+    "kanji": "落とす",
+    "hiragana": "おとす",
+    "english": "to drop"
+  },
+  {
+    "kanji": "お釣り",
+    "hiragana": "おつり",
+    "english": "change (for a purchase)​"
+  },
+  {
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "english": "husband"
+  },
+  {
+    "kanji": "終わり",
+    "hiragana": "おわり",
+    "english": "the end"
+  },
+  {
+    "kanji": "親",
+    "hiragana": "おや",
+    "english": "parents"
+  },
+  {
+    "kanji": "泳ぎ方",
+    "hiragana": "およぎかた",
+    "english": "way of swimming"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "パート",
+    "english": "part; part time"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "パソコン",
+    "english": "personal computer"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ピアノ",
+    "english": "piano"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "プレゼント",
+    "english": "present; gift"
+  },
+  {
+    "kanji": "冷房",
+    "hiragana": "れいぼう",
+    "english": "air conditioning"
+  },
+  {
+    "kanji": "レジ",
+    "hiragana": "レジ",
+    "english": "cashier​"
+  },
+  {
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "english": "history"
+  },
+  {
+    "kanji": "連絡",
+    "hiragana": "れんらく",
+    "english": "to contact; to get in touch​"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "レポート",
+    "english": "report"
+  },
+  {
+    "kanji": "利用",
+    "hiragana": "りよう",
+    "english": "use; utilization; application"
+  },
+  {
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "english": "reason"
+  },
+  {
+    "kanji": "留守",
+    "hiragana": "るす",
+    "english": "absence"
+  },
+  {
+    "kanji": "旅館",
+    "hiragana": "りょかん",
+    "english": "traditional inn; Japanese-style lodging"
+  },
+  {
+    "kanji": "両方",
+    "hiragana": "りょうほう",
+    "english": "both sides"
+  },
+  {
+    "kanji": "寂しい",
+    "hiragana": "さびしい",
+    "english": "lonely"
+  },
+  {
+    "kanji": "下がる",
+    "hiragana": "さがる",
+    "english": "to get down"
+  },
+  {
+    "kanji": "探す",
+    "hiragana": "さがす",
+    "english": "to look for"
+  },
+  {
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "english": "to lower"
+  },
+  {
+    "kanji": "最後",
+    "hiragana": "さいご",
+    "english": "end; last"
+  },
+  {
+    "kanji": "最近",
+    "hiragana": "さいきん",
+    "english": "recently"
+  },
+  {
+    "kanji": "最初",
+    "hiragana": "さいしょ",
+    "english": "beginning; first"
+  },
+  {
+    "kanji": "坂",
+    "hiragana": "さか",
+    "english": "slope; hill"
+  },
+  {
+    "kanji": "盛ん",
+    "hiragana": "さかん",
+    "english": "popularity; prosperous"
+  },
+  {
+    "kanji": "昨夜",
+    "hiragana": "さくや",
+    "english": "last night"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "サンダル",
+    "english": "sandal"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "サンドイッチ",
+    "english": "sandwich"
+  },
+  {
+    "kanji": "産業",
+    "hiragana": "さんぎょう",
+    "english": "industry"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "サラダ",
+    "english": "salad"
+  },
+  {
+    "kanji": "再来月",
+    "hiragana": "さらいげつ",
+    "english": "month after next"
+  },
+  {
+    "kanji": "再来週",
+    "hiragana": "さらいしゅう",
+    "english": "week after next"
+  },
+  {
+    "kanji": "差し上げる",
+    "hiragana": "さしあげる",
+    "english": "to give"
+  },
+  {
+    "kanji": "騒ぐ",
+    "hiragana": "さわぐ",
+    "english": "to make noise,to be excited"
+  },
+  {
+    "kanji": "触る",
+    "hiragana": "さわる",
+    "english": "to touch"
+  },
+  {
+    "kanji": "生物",
+    "hiragana": "せいぶつ",
+    "english": "living thing"
+  },
+  {
+    "kanji": "政治",
+    "hiragana": "せいじ",
+    "english": "politics"
+  },
+  {
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "english": "to live"
+  },
+  {
+    "kanji": "生命",
+    "hiragana": "せいめい",
+    "english": "life"
+  },
+  {
+    "kanji": "生産",
+    "hiragana": "せいさん",
+    "english": "production"
+  },
+  {
+    "kanji": "西洋",
+    "hiragana": "せいよう",
+    "english": "the west; Western countries"
+  },
+  {
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "english": "the world"
+  },
+  {
+    "kanji": "席",
+    "hiragana": "せき",
+    "english": "seat"
+  },
+  {
+    "kanji": "線",
+    "hiragana": "せん",
+    "english": "line"
+  },
+  {
+    "kanji": "背中",
+    "hiragana": "せなか",
+    "english": "back (of body)"
+  },
+  {
+    "kanji": "先輩",
+    "hiragana": "せんぱい",
+    "english": "senior"
+  },
+  {
+    "kanji": "戦争",
+    "hiragana": "せんそう",
+    "english": "war"
+  },
+  {
+    "kanji": "説明",
+    "hiragana": "せつめい",
+    "english": "explanation"
+  },
+  {
+    "kanji": "社長",
+    "hiragana": "しゃちょう",
+    "english": "company president; manager; director"
+  },
+  {
+    "kanji": "社会",
+    "hiragana": "しゃかい",
+    "english": "society; public; community; the world"
+  },
+  {
+    "kanji": "市",
+    "hiragana": "し",
+    "english": "city"
+  },
+  {
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "english": "match,game"
+  },
+  {
+    "kanji": "叱る",
+    "hiragana": "しかる",
+    "english": "to scold"
+  },
+  {
+    "kanji": "仕方",
+    "hiragana": "しかた",
+    "english": "way; method"
+  },
+  {
+    "kanji": "試験",
+    "hiragana": "しけん",
+    "english": "examination"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "しっかり",
+    "english": "firmly; steadily"
+  },
+  {
+    "kanji": "島",
+    "hiragana": "しま",
+    "english": "island"
+  },
+  {
+    "kanji": "市民",
+    "hiragana": "市民",
+    "english": "citizen"
+  },
+  {
+    "kanji": "品物",
+    "hiragana": "しなもの",
+    "english": "goods; article; thing"
+  },
+  {
+    "kanji": "新聞社",
+    "hiragana": "しんぶんしゃ",
+    "english": "newspaper company"
+  },
+  {
+    "kanji": "親切",
+    "hiragana": "しんせつ",
+    "english": "kindness"
+  },
+  {
+    "kanji": "失敗",
+    "hiragana": "しっぱい",
+    "english": "failure"
+  },
+  {
+    "kanji": "調べる",
+    "hiragana": "しらべる",
+    "english": "to investigate"
+  },
+  {
+    "kanji": "知らせる",
+    "hiragana": "しらせる",
+    "english": "to notify"
+  },
+  {
+    "kanji": "下着",
+    "hiragana": "したぎ",
+    "english": "underwear"
+  },
+  {
+    "kanji": "食料品",
+    "hiragana": "しょくりょうひん",
+    "english": "food; groceries"
+  },
+  {
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "english": "elementary school"
+  },
+  {
+    "kanji": "生じる",
+    "hiragana": "しょうじる",
+    "english": "to produce"
+  },
+  {
+    "kanji": "紹介",
+    "hiragana": "しょうかい",
+    "english": "introduction"
+  },
+  {
+    "kanji": "将来",
+    "hiragana": "しょうらい",
+    "english": "future"
+  },
+  {
+    "kanji": "小説",
+    "hiragana": "しょうせつ",
+    "english": "novel"
+  },
+  {
+    "kanji": "趣味",
+    "hiragana": "しゅみ",
+    "english": "hobby; pastime; preference"
+  },
+  {
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "english": "habit; custom; cultural practice."
+  },
+  {
+    "kanji": "祖母",
+    "hiragana": "そぼ",
+    "english": "grandmother"
+  },
+  {
+    "kanji": "育てる",
+    "hiragana": "そだてる",
+    "english": "to rear,to bring up"
+  },
+  {
+    "kanji": "祖父",
+    "hiragana": "そふ",
+    "english": "grandfather"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ソフト",
+    "english": "soft"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "そんな",
+    "english": "that sort of"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "それで",
+    "english": "because of that"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "それほど",
+    "english": "to that extent"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "そろそろ",
+    "english": "gradually; soon"
+  },
+  {
+    "kanji": "卒業",
+    "hiragana": "そつぎょう",
+    "english": "graduation"
+  },
+  {
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "english": "to discuss"
+  },
+  {
+    "kanji": "素晴らしい",
+    "hiragana": "すばらしい",
+    "english": "wonderful"
+  },
+  {
+    "kanji": "滑る",
+    "hiragana": "すべる",
+    "english": "to slide; to slip"
+  },
+  {
+    "kanji": "凄い",
+    "hiragana": "すごい",
+    "english": "terrific"
+  },
+  {
+    "kanji": "水道",
+    "hiragana": "すいどう",
+    "english": "water supply"
+  },
+  {
+    "kanji": "水泳",
+    "hiragana": "すいえい",
+    "english": "swimming"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "すっかり",
+    "english": "completely"
+  },
+  {
+    "kanji": "空く",
+    "hiragana": "すく",
+    "english": "to be hungry"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "スクリーン",
+    "english": "screen"
+  },
+  {
+    "kanji": "隅",
+    "hiragana": "すみ",
+    "english": "corner; nook"
+  },
+  {
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "english": "to finish"
+  },
+  {
+    "kanji": "砂",
+    "hiragana": "すな",
+    "english": "sand"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "すり",
+    "english": "pickpocket"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "スーツケース",
+    "english": "suitcase"
+  },
+  {
+    "kanji": "進む",
+    "hiragana": "すすむ",
+    "english": "to make progress"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ステーキ",
+    "english": "steak"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ステレオ",
+    "english": "stereo"
+  },
+  {
+    "kanji": "捨てる",
+    "hiragana": "すてる",
+    "english": "to throw away"
+  },
+  {
+    "kanji": "数学",
+    "hiragana": "すうがく",
+    "english": "mathematics; arithmetic"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "スーツ",
+    "english": "suit"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "english": "right; correct"
+  },
+  {
+    "kanji": "退院",
+    "hiragana": "' たいいん",
+    "english": "leaving hospital; discharge from hospital"
+  },
+  {
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "english": "typhoon"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "タイプ",
+    "english": "type,style"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "たいてい",
+    "english": "usually"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "たまに",
+    "english": "occasionally"
+  },
+  {
+    "kanji": "棚",
+    "hiragana": "たな",
+    "english": "shelves"
+  },
+  {
+    "kanji": "誕生",
+    "hiragana": "たんじょう",
+    "english": "birth"
+  },
+  {
+    "kanji": "楽しみ",
+    "hiragana": "たのしみ",
+    "english": "looking forward to​"
+  },
+  {
+    "kanji": "倒れる",
+    "hiragana": "たおれる",
+    "english": "to fall (over, down)"
+  },
+  {
+    "kanji": "足りる",
+    "hiragana": "たりる",
+    "english": "to be sufficient; to be enough"
+  },
+  {
+    "kanji": "足す",
+    "hiragana": "たす",
+    "english": "to add (numbers / something)"
+  },
+  {
+    "kanji": "畳",
+    "hiragana": "たたみ",
+    "english": "Japanese straw mat"
+  },
+  {
+    "kanji": "建てる",
+    "hiragana": "たてる",
+    "english": "to build"
+  },
+  {
+    "kanji": "訪ねる",
+    "hiragana": "たずねる",
+    "english": "to visit"
+  },
+  {
+    "kanji": "尋ねる",
+    "hiragana": "たずねる",
+    "english": "to ask"
+  },
+  {
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "english": "glove"
+  },
+  {
+    "kanji": "丁寧",
+    "hiragana": "ていねい",
+    "english": "polite"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "テキスト",
+    "english": "text; textbook"
+  },
+  {
+    "kanji": "適当",
+    "hiragana": "てきとう",
+    "english": "suitable"
+  },
+  {
+    "kanji": "点",
+    "hiragana": "てん",
+    "english": "point; dot"
+  },
+  {
+    "kanji": "店員",
+    "hiragana": "' てんいん",
+    "english": "employee (of a store); shop assistant; clerk"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "テニス",
+    "english": "tennis"
+  },
+  {
+    "kanji": "天気予報",
+    "hiragana": "てんきよほう",
+    "english": "weather forecast"
+  },
+  {
+    "kanji": "展覧会",
+    "hiragana": "てんらんかい",
+    "english": "exhibition"
+  },
+  {
+    "kanji": "寺",
+    "hiragana": "てら",
+    "english": "temple"
+  },
+  {
+    "kanji": "手伝う",
+    "hiragana": "てつだう",
+    "english": "to help; to assist; to aid​"
+  },
+  {
+    "kanji": "途中",
+    "hiragana": "とちゅう",
+    "english": "on the way"
+  },
+  {
+    "kanji": "届ける",
+    "hiragana": "とどける",
+    "english": "to send​"
+  },
+  {
+    "kanji": "特急",
+    "hiragana": "とっきゅう",
+    "english": "limited express (train, faster than an express)"
+  },
+  {
+    "kanji": "床屋",
+    "hiragana": "とこや",
+    "english": "barber"
+  },
+  {
+    "kanji": "特別",
+    "hiragana": "とくべつ",
+    "english": "special; particular; extraordinary; exceptional"
+  },
+  {
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "english": "particularly; especially; in particular; expressly"
+  },
+  {
+    "kanji": "泊まる",
+    "hiragana": "とまる",
+    "english": "to stay at"
+  },
+  {
+    "kanji": "止める",
+    "hiragana": "とめる",
+    "english": "to stop something"
+  },
+  {
+    "kanji": "遠く",
+    "hiragana": "とおく",
+    "english": "distant"
+  },
+  {
+    "kanji": "通る",
+    "hiragana": "とおる",
+    "english": "to go through"
+  },
+  {
+    "kanji": "取り替える",
+    "hiragana": "とりかえる",
+    "english": "to exchange; to swap; to replace"
+  },
+  {
+    "kanji": "到頭",
+    "hiragana": "とうとう",
+    "english": "finally, after all"
+  },
+  {
+    "kanji": "続ける",
+    "hiragana": "つづける",
+    "english": "to continue; to keep up; to keep on"
+  },
+  {
+    "kanji": "続く",
+    "hiragana": "つづく",
+    "english": "to continue"
+  },
+  {
+    "kanji": "都合",
+    "hiragana": "つごう",
+    "english": "convenience"
+  },
+  {
+    "kanji": "捕まえる",
+    "hiragana": "つかまえる",
+    "english": "to catch"
+  },
+  {
+    "kanji": "漬ける",
+    "hiragana": "つける",
+    "english": "to soak; to pickle"
+  },
+  {
+    "kanji": "月",
+    "hiragana": "つき",
+    "english": "moon"
+  },
+  {
+    "kanji": "付く",
+    "hiragana": "つく",
+    "english": "to be attached"
+  },
+  {
+    "kanji": "妻",
+    "hiragana": "つま",
+    "english": "(humble) wife"
+  },
+  {
+    "kanji": "連れる",
+    "hiragana": "つれる",
+    "english": "to take (someone) with one"
+  },
+  {
+    "kanji": "釣る",
+    "hiragana": "つる",
+    "english": "to fish"
+  },
+  {
+    "kanji": "伝える",
+    "hiragana": "つたえる",
+    "english": "to report; to tell"
+  },
+  {
+    "kanji": "包む",
+    "hiragana": "つつむ",
+    "english": "to wrap"
+  },
+  {
+    "kanji": "腕",
+    "hiragana": "うで",
+    "english": "arm"
+  },
+  {
+    "kanji": "植える",
+    "hiragana": "うえる",
+    "english": "to plant; to grow"
+  },
+  {
+    "kanji": "動く",
+    "hiragana": "うごく",
+    "english": "to move"
+  },
+  {
+    "kanji": "伺う",
+    "hiragana": "うかがう",
+    "english": "to visit"
+  },
+  {
+    "kanji": "受ける",
+    "hiragana": "うける",
+    "english": "to take a lesson or test"
+  },
+  {
+    "kanji": "受付",
+    "hiragana": "うけつけ",
+    "english": "reception (desk); information desk​"
+  },
+  {
+    "kanji": "生まれ",
+    "hiragana": "うまれ",
+    "english": "birth"
+  },
+  {
+    "kanji": "運転手",
+    "hiragana": "うんてんしゅ",
+    "english": "driver; chauffeur"
+  },
+  {
+    "kanji": "裏",
+    "hiragana": "うら",
+    "english": "reverse side"
+  },
+  {
+    "kanji": "嬉しい",
+    "hiragana": "うれしい",
+    "english": "happy"
+  },
+  {
+    "kanji": "売り場",
+    "hiragana": "うりば",
+    "english": "selling area"
+  },
+  {
+    "kanji": "嘘",
+    "hiragana": "うそ",
+    "english": "a lie"
+  },
+  {
+    "kanji": "打つ",
+    "hiragana": "うつ",
+    "english": "to hit"
+  },
+  {
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "english": "beautiful"
+  },
+  {
+    "kanji": "移る",
+    "hiragana": "うつる",
+    "english": "to move house or transfer"
+  },
+  {
+    "kanji": "写す",
+    "hiragana": "うつす",
+    "english": "to copy or photograph"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "ワープロ",
+    "english": "word processor"
+  },
+  {
+    "kanji": "別れる",
+    "hiragana": "わかれる",
+    "english": "to separate"
+  },
+  {
+    "kanji": "沸かす",
+    "hiragana": "わかす",
+    "english": "to boil; to heat"
+  },
+  {
+    "kanji": "沸く",
+    "hiragana": "わく",
+    "english": "to boil"
+  },
+  {
+    "kanji": "笑う",
+    "hiragana": "わらう",
+    "english": "to laugh; to smile"
+  },
+  {
+    "kanji": "割れる",
+    "hiragana": "われる",
+    "english": "to break"
+  },
+  {
+    "kanji": "割合",
+    "hiragana": "わりあい",
+    "english": "rate; ratio"
+  },
+  {
+    "kanji": "忘れ物",
+    "hiragana": "わすれもの",
+    "english": "lost article"
+  },
+  {
+    "kanji": "焼ける",
+    "hiragana": "やける",
+    "english": "to burn; to be roasted"
+  },
+  {
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "english": "to bake; to grill"
+  },
+  {
+    "kanji": "役に立つ",
+    "hiragana": "やくにたつ",
+    "english": "to be helpful"
+  },
+  {
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "english": "promise"
+  },
+  {
+    "kanji": "止む",
+    "hiragana": "やむ",
+    "english": "to stop"
+  },
+  {
+    "kanji": "N/A",
+    "hiragana": "やっぱり",
+    "english": "as I thought"
+  },
+  {
+    "kanji": "優しい",
+    "hiragana": "やさしい",
+    "english": "kind"
+  },
+  {
+    "kanji": "痩せる",
+    "hiragana": "やせる",
+    "english": "to become thin"
+  },
+  {
+    "kanji": "柔らかい",
+    "hiragana": "やわらかい",
+    "english": "soft"
+  },
+  {
+    "kanji": "汚れる",
+    "hiragana": "よごれる",
+    "english": "to get dirty"
+  },
+  {
+    "kanji": "喜ぶ",
+    "hiragana": "よろこぶ",
+    "english": "to be delighted"
+  },
+  {
+    "kanji": "寄る",
+    "hiragana": "よる",
+    "english": "to visit; to drop by"
+  },
+  {
+    "kanji": "予習",
+    "hiragana": "よしゅう",
+    "english": "preparation for a lesson"
+  },
+  {
+    "kanji": "予定",
+    "hiragana": "よてい",
+    "english": "plan"
+  },
+  {
+    "kanji": "用",
+    "hiragana": "よう",
+    "english": "business; task; errand; use; purpose"
+  },
+  {
+    "kanji": "用意",
+    "hiragana": "ようい",
+    "english": "preparation; arrangements; provision; getting ready"
+  },
+  {
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "english": "tasks; things to do; errand; business (to take care of)"
+  },
+  {
+    "kanji": "予約",
+    "hiragana": "よやく",
+    "english": "reservation"
+  },
+  {
+    "kanji": "湯",
+    "hiragana": "ゆ",
+    "english": "hot water"
+  },
+  {
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "english": "finger"
+  },
+  {
+    "kanji": "指輪",
+    "hiragana": "ゆびわ",
+    "english": "finger ring"
+  },
+  {
+    "kanji": "夢",
+    "hiragana": "ゆめ",
+    "english": "dream"
+  },
+  {
+    "kanji": "揺れる",
+    "hiragana": "ゆれる",
+    "english": "to shake"
+  },
+  {
+    "kanji": "残念",
+    "hiragana": "ざんねん",
+    "english": "regrettable; unfortunate"
+  },
+  {
+    "kanji": "全然",
+    "hiragana": "ぜんぜん",
+    "english": "not entirely (used in a negative sentence)"
+  }
+]

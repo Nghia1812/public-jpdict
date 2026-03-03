@@ -1,0 +1,295 @@
+<resources>
+    <string name="app_name">JapanLib</string>
+    <plurals name="word_count" translatable="false">
+        <item quantity="one">%d word</item>
+        <item quantity="other">%d words</item>
+    </plurals>
+    <string name="loading">Loading…</string>
+    <string name="error_loading">Error loading data</string>
+    <!-- Navigation Bar -->
+    <string name="dictionary_item">Dictionary</string>
+    <string name="learning_item">Learning</string>
+    <string name="translator_item">Translation</string>
+    <string name="settings_item">Settings</string>
+
+    <!-- Dictionary Screen -->
+    <string name="learning">Learning</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="theme_pack_title">Thematic Vocabulary Packs</string>
+    <string name="jlpt_list_title">JLPT Vocabulary</string>
+    <string name="custom_list_title">Custom Lists</string>
+    <string name="retry">Retry</string>
+    <string name="no_jlpt_lists">No JLPT lists available</string>
+    <string name="no_theme_lists">No theme lists available</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="no_custom_lists">No custom lists</string>
+    <string name="page_indicator">Page %1$d / %2$d</string>
+    <string name="word_count">%1$d Words</string>
+    <string name="progress_percentage">%1$d%%</string>
+
+    <!-- Search Screen -->
+    <string name="voice">Voice</string>
+    <string name="camera">Camera</string>
+    <string name="search_hint">Search Japanese or English…</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="kanji_suggestion">Draw a kanji to see suggestions</string>
+    <string name="clear_image">Clear</string>
+    <string name="save">Submit</string>
+    <string name="no_results">No results found</string>
+    <string name="draw_kanji">Draw Kanji here</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="japanese">日本語</string>
+    <string name="english">English</string>
+    <string name="listening">Listening…</string>
+    <string name="processing">Processing…</string>
+    <string name="cancel_voice">Tap anywhere to cancel</string>
+    <string name="permission_dialog_title">Permission Required</string>
+    <string name="micro_permission_dialog_message">You need to grant the microphone permission to use this feature.</string>
+    <string name="close_dialog">Close</string>
+    <string name="no_detected_text">Cannot detect text from voice</string>
+    <string name="no_detected_text_image">Cannot detect text from image</string>
+    <string name="swipe_left_hint">Swipe left for next item</string>
+    <string name="swipe_right_hint">Swipe right for previous item</string>
+    <string name="tap_to_dismiss">Tap to close</string>
+
+    <!-- Detail Word Screen -->
+    <string name="save_to_custom_list">Save to Custom List</string>
+    <string name="no_custom_list">No custom lists</string>
+    <string name="create_custom_list">Create New Folder</string>
+    <string name="enter_folder_name">Enter folder name</string>
+    <string name="create">Create</string>
+    <string name="screen_title">Dictionary</string>
+    <string name="definition_card">Definitions</string>
+    <string name="example_card">Example Sentences</string>
+    <string name="no_example">No available examples for this word</string>
+    <string name="loading_example">Loading examples...</string>
+    <string name="error_example">Error loading examples for this word</string>
+    <string name="kanji_card">Kanji Details</string>
+    <string name="no_kanji">No Kanji for this word</string>
+    <string name="related_words">Related Words</string>
+    <string name="error_related_words">No related words for this word</string>
+    <string name="sheet_subtitle">Select a list</string>
+    <string name="on_label">On</string>
+    <string name="kun_label">Kun</string>
+    <string name="stroke_label">Strokes %1$d</string>
+    <string name="grade_label">Grade %1$d</string>
+    <string name="level_label">JLPT N%1$d</string>
+
+    <!-- Translation Screen -->
+    <string name="translation_screen_title">Translation</string>
+    <string name="source_text_field">Enter text</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="limit_reach">Text is too long (> 5000 letters)</string>
+    <string name="retrying_message">Service currently unavailable. Retrying...</string>
+
+    <!-- Settings Screen -->
+    <string name="view_your_account">View your account</string>
+    <string name="sign_in">Sign in or Create new account</string>
+    <string name="guest_user">Guest user</string>
+    <string name="cancel_dialog">Close</string>
+    <string name="help_support_content">
+    If you need help while using the app, we are here to support you.
+    You can find guides for dictionary search, flashcards, and learning features.
+    This section also answers common questions from users.
+    If you encounter any issues, please check the troubleshooting guides.
+    Your feedback helps us improve the app.
+    </string>
+    <string name="help_and_support_title">Help &amp; Support</string>
+    <string name="privacy_policy_content">
+    We are committed to protecting your privacy and personal information.
+    The app only collects data necessary to provide and improve services.
+    Your data is stored securely and is not shared without your consent.
+    You can manage or request deletion of your data at any time.
+    By using the app, you agree to this privacy policy.
+    </string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="about_content">
+    This app is designed to support Japanese learners at all levels.
+    It provides a reliable Japanese–English dictionary and learning tools.
+    You can study vocabulary through flashcards and real examples.
+    The app works both online and offline for convenient learning.
+    Thank you for choosing our app as your learning companion.
+    </string>
+    <string name="about_title">About Us</string>
+    <string name="rate_title">Rate</string>
+    <string name="rate_content">Rate our app</string>
+    <string name="rate_app_positive">Rate</string>
+    <string name="rate_app_negative">Later</string>
+    <string name="settings_title">Settings</string>
+    <string name="appearance">APPEARANCE</string>
+    <string name="general">GENERAL</string>
+    <string name="support">SUPPORT</string>
+    <string name="notification">NOTIFICATIONS</string>
+    <string name="font_size">Font size</string>
+    <string name="font_size_small">Small</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_large">Large</string>
+
+    <!--Learning screen -->
+    <string name="screen_mode_title">Learning Mode</string>
+    <string name="flashcard_mode_title">Flashcard Learning</string>
+    <string name="test_mode_title">Learning Mode</string>
+    <string name="test_mode_description">Review vocabulary and kanji with customizable decks</string>
+    <string name="flashcard_mode_description">Practice for the JLPT exam with practice tests</string>
+    <string name="flashcards_title">Flashcards</string>
+    <string name="section_thematic_vocabulary">Thematic Vocabulary Packs</string>
+    <string name="section_jlpt_vocabulary">JLPT Vocabulary</string>
+    <string name="section_custom_lists">Custom Lists</string>
+    <string name="learning_progress">%1$d%%</string>
+
+    <!-- Flashcard Screens -->
+    <string name="back">Back</string>
+    <string name="play_audio">Play audio</string>
+    <string name="word_label">WORD</string>
+    <string name="tap_to_flip">Tap to flip</string>
+    <string name="meaning_label">MEANING</string>
+    <string name="reading_label">READING</string>
+    <string name="forgot">Forgot</string>
+    <string name="remember">Remember</string>
+    <string name="learning_status">Learning Status</string>
+    <string name="more">More</string>
+    <string name="start_flashcards">Start Flashcards</string>
+    <string name="learn_remaining_words">Learn Remaining Words</string>
+    <string name="review_forgot_words">Review Forgot Words</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="no_data_available">No data available</string>
+    <string name="total_words">Total Words</string>
+    <string name="remembered">Remembered</string>
+    <string name="not_remembered">Not Remembered</string>
+    <string name="navigate_content_description">Navigate</string>
+    <string name="progress_ratio" translatable="false">%1$d / %2$d</string>
+
+    <!-- Learning Preferences Dialog -->
+    <string name="learning_preferences_title">Learning Preferences</string>
+    <string name="learning_preferences_subtitle">Customize your study session.</string>
+    <string name="shuffle_words">Shuffle Words</string>
+    <string name="shuffle_words_description">Randomize word order.</string>
+    <string name="show_meaning_first">Show Meaning First</string>
+    <string name="done">Done</string>
+
+    <!-- Congrat Dialog -->
+    <string name="congratulations_title">Congratulations!</string>
+    <string name="congratulations_subtitle">You\'ve successfully completed this session!</string>
+    <string name="go_back">Go Back</string>
+
+    <!-- JLPT Test Screen -->
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_message">Please check your internet connection and try again.</string>
+    <string name="jlpt_testing_title">JLPT Testing</string>
+    <string name="questions_count">%1$d Questions</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_not_started">Not Started</string>
+    <string name="test_sections_title">JLPT Test</string>
+    <string name="section_listening">Listening</string>
+    <string name="section_reading">Reading</string>
+    <string name="section_vocabulary">Vocabulary</string>
+    <string name="section_grammar">Grammar</string>
+    <string name="question_number">Question %1$d</string>
+    <string name="progress_complete">Grade: %1$d%%</string>
+    <string name="question_correct">%1$s Correct</string>
+    <string name="question_incorrect">%1$s Incorrect</string>
+    <string name="review_answers_title">Review your answers</string>
+    <string name="score_format">Score: %1$s / %2$d</string>
+    <string name="error_loading_test">Failed to load test</string>
+    <string name="jlpt_test_title">JLPT Test</string>
+    <string name="submit_test">Submit Test</string>
+    <string name="answered_progress">Answered %1$d of %2$d</string>
+    <string name="audio_time_format">%1$s / %2$s</string>
+    <string name="test_paused">Test Paused</string>
+    <string name="test_paused_message">Your test has been paused</string>
+    <string name="timer_label">Time: %1$s</string>
+    <string name="tap_to_continue">Tap to Continue</string>
+    <string name="progress_saved">Your progress has been saved</string>
+
+    <!-- Result Screen -->
+    <string name="result_screen_title">JLPT N4 Mock Test Results</string>
+    <string name="result_failed_to_load">Failed to load results</string>
+    <string name="result_congratulations">Great Job! Test Complete</string>
+    <string name="result_summary_subtitle">Here\'s a summary of your performance.</string>
+    <string name="result_correct_answers_label">Correct Answers</string>
+    <string name="result_time_taken_label">Time Taken</string>
+    <string name="result_performance_by_section">Performance by Section</string>
+    <string name="result_review_answers_button">Review Answers</string>
+    <string name="result_retake_test_button">Retake Test</string>
+    <string name="result_return_to_list_button">Return to Test List</string>
+    <string name="result_accuracy_label">Accuracy</string>
+
+    <!-- Login Screen -->
+    <string name="login_back_description">Back</string>
+    <string name="login_reset_password_title">Reset Password</string>
+    <string name="login_reset_password_subtitle">Enter your email address and we\'ll send you instructions to reset your password.</string>
+    <string name="login_email_username_placeholder">Email or Username</string>
+    <string name="login_reset_email_sent">Password reset email sent! Please check your inbox.</string>
+    <string name="login_send_reset_email">Send Reset Email</string>
+    <string name="login_back_to_login">Back to Login</string>
+    <string name="login_welcome_title">Welcome to Japan Library</string>
+    <string name="login_password_placeholder">Password</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_enter_password_signin">Enter password and Sign in!</string>
+    <string name="login_enter_password_signup">Enter password and Sign up!</string>
+    <string name="login_signup_or_login">Signup or Login</string>
+    <string name="login_button">Login</string>
+    <string name="login_google_button">Login with Google</string>
+
+    <!-- User Info Screen -->
+    <string name="user_info_error_loading">Error loading account information</string>
+    <string name="user_info_no_email">No email</string>
+    <string name="user_info_guest">Guest</string>
+    <string name="user_info_sign_out">Sign Out</string>
+    <string name="user_info_profile_description">Profile</string>
+    <string name="user_info_email_label">Email</string>
+    <string name="user_info_name_label">Display Name</string>
+    <string name="user_info_password_label">Current Password</string>
+    <string name="user_info_new_password_label">New Password</string>
+    <string name="user_info_hide_password">Hide password</string>
+    <string name="user_info_show_password">Show password</string>
+    <string name="user_info_current_password_placeholder">Enter current password to save changes</string>
+    <string name="user_info_new_password_placeholder">Enter new password</string>
+    <string name="user_info_saving">Saving...</string>
+    <string name="user_info_save_changes">Save Changes</string>
+    <string name="user_info_update_success">Success</string>
+    <string name="user_info_update_error">Error</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_app_icon_description">JapanLib App Icon</string>
+    <string name="splash_syncing">Syncing… %1$d%%</string>
+
+    <!-- Notification Settings -->
+    <string name="settings_notifications_title">Notifications</string>
+    <string name="settings_notifications_enabled">Enable Notifications</string>
+    <string name="settings_notifications_enabled_desc">Receive learning reminders and daily words</string>
+    <string name="settings_reminder_time">Reminder Time</string>
+    <string name="settings_progress_notifications">Progress Updates</string>
+    <string name="settings_progress_notifications_desc">Get notified about your learning achievements</string>
+    <string name="settings_review_reminders">Review Reminders</string>
+    <string name="settings_review_reminders_desc">Reminders for words you need to review</string>
+    <string name="settings_daily_word">Daily Word</string>
+    <string name="settings_daily_word_desc">Get a random word recommendation daily</string>
+    <string name="settings_test_notification">Send Test Notification</string>
+    <string name="settings_silent_hours">Silent Hours</string>
+    <string name="settings_silent_hours_desc">Do not disturb during these hours</string>
+
+    <!-- Notification Content -->
+    <string name="notification_channel_progress">Learning Progress</string>
+    <string name="notification_channel_progress_desc">Notifications about your daily learning progress and achievements</string>
+    <string name="notification_channel_reminders">Review Reminders</string>
+    <string name="notification_channel_reminders_desc">Reminders to review words you\'ve learned</string>
+    <string name="notification_channel_daily_word">Daily Word</string>
+    <string name="notification_channel_daily_word_desc">Daily word of the day from your learning lists</string>
+    <string name="notification_progress_title">📊 Daily Progress Update</string>
+    <string name="notification_word_of_day">🌸 Word of the Day</string>
+    <string name="notification_review_reminder_title">⏰ Time to Review!</string>
+    <string name="notification_review_reminder_text">%1$d words are waiting for review</string>
+    <string name="notification_progress_summary">✅ %1$d new words learned</string>
+    <string name="notification_progress_streak"> • 🔥 %1$d-day streak!</string>
+    <string name="notification_progress_detail_today">✅ %1$d new words learned today</string>
+    <string name="notification_progress_detail_week">📊 %1$d words this week</string>
+    <string name="notification_progress_detail_streak">🔥 %1$d-day study streak!</string>
+    <string name="notification_progress_detail_accuracy">🎯 %1$d%% accuracy rate</string>
+    <string name="notification_progress_detail_due">⏰ %1$d words due for review</string>
+    <string name="notification_word_meaning_label">Meaning: %1$s</string>
+
+</resources>

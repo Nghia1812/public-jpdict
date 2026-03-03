@@ -1,0 +1,1777 @@
+ [
+  {
+    "kanji": "上げる",
+    "hiragana": "あげる",
+    "english": "to raise; to elevate"
+  },
+  {
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "english": "bright; light"
+  },
+  {
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "english": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock"
+  },
+  {
+    "kanji": "秋",
+    "hiragana": "あき",
+    "english": "autumn; fall"
+  },
+  {
+    "kanji": "姉",
+    "hiragana": "あね",
+    "english": "older sister; elder sister​"
+  },
+  {
+    "kanji": "兄",
+    "hiragana": "あに",
+    "english": "elder brother; older brother​"
+  },
+  {
+    "kanji": "明後日",
+    "hiragana": "あさって",
+    "english": "day after tomorrow"
+  },
+  {
+    "kanji": "あそこ",
+    "hiragana": "",
+    "english": "over there"
+  },
+  {
+    "kanji": "晩ご飯",
+    "hiragana": "ばんごはん",
+    "english": "dinner; evening meal"
+  },
+  {
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "english": "hat; cap"
+  },
+  {
+    "kanji": "文章",
+    "hiragana": "ぶんしょう",
+    "english": "sentence"
+  },
+  {
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "english": "hospital"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "english": "illness; disease; sickness"
+  },
+  {
+    "kanji": "茶色",
+    "hiragana": "ちゃいろ",
+    "english": "brown"
+  },
+  {
+    "kanji": "茶碗",
+    "hiragana": "ちゃわん",
+    "english": "rice bowl; tea cup; teacup"
+  },
+  {
+    "kanji": "父",
+    "hiragana": "ちち",
+    "english": "father"
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "english": "small; little; tiny​"
+  },
+  {
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "english": "near; close"
+  },
+  {
+    "kanji": "地下鉄",
+    "hiragana": "ちかてつ",
+    "english": "subway; underground train"
+  },
+  {
+    "kanji": "地図",
+    "hiragana": "ちず",
+    "english": "map"
+  },
+  {
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "english": "kitchen"
+  },
+  {
+    "kanji": "だんだん",
+    "hiragana": "",
+    "english": "gradually"
+  },
+  {
+    "kanji": "誰",
+    "hiragana": "だれ",
+    "english": "who"
+  },
+  {
+    "kanji": "誰か",
+    "hiragana": "だれか",
+    "english": "someone; somebody"
+  },
+  {
+    "kanji": "出す",
+    "hiragana": "だす",
+    "english": "to take out; to get out; to put out; to reveal"
+  },
+  {
+    "kanji": "出口",
+    "hiragana": "でぐち",
+    "english": "exit; gateway; way out"
+  },
+  {
+    "kanji": "出かける",
+    "hiragana": "でかける",
+    "english": "to go out; to leave; to depart"
+  },
+  {
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "english": "train; electric train"
+  },
+  {
+    "kanji": "出る",
+    "hiragana": "でる",
+    "english": "to leave; to exit; to appear; to go out"
+  },
+  {
+    "kanji": "どっち",
+    "hiragana": "",
+    "english": "which; which one"
+  },
+  {
+    "kanji": "どちら",
+    "hiragana": "",
+    "english": "which of two"
+  },
+  {
+    "kanji": "どなた",
+    "hiragana": "",
+    "english": "who"
+  },
+  {
+    "kanji": "どの",
+    "hiragana": "",
+    "english": "which"
+  },
+  {
+    "kanji": "どれ",
+    "hiragana": "",
+    "english": "which (of three or more)​"
+  },
+  {
+    "kanji": "どう",
+    "hiragana": "",
+    "english": "how; in what way; how about​"
+  },
+  {
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "english": "animal"
+  },
+  {
+    "kanji": "絵",
+    "hiragana": "え",
+    "english": "picture"
+  },
+  {
+    "kanji": "ええ",
+    "hiragana": "",
+    "english": "yes; that is correct; right"
+  },
+  {
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "english": "movie; film"
+  },
+  {
+    "kanji": "映画館",
+    "hiragana": "えいがかん",
+    "english": "movie theater; cinema"
+  },
+  {
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "english": "English language"
+  },
+  {
+    "kanji": "駅",
+    "hiragana": "えき",
+    "english": "station"
+  },
+  {
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "english": "pencil"
+  },
+  {
+    "kanji": "エレベーター",
+    "hiragana": "",
+    "english": "elevator"
+  },
+  {
+    "kanji": "服",
+    "hiragana": "ふく",
+    "english": "clothes"
+  },
+  {
+    "kanji": "降る",
+    "hiragana": "ふる",
+    "english": "to fall"
+  },
+  {
+    "kanji": "太い",
+    "hiragana": "ふとい",
+    "english": "fat; thick"
+  },
+  {
+    "kanji": "二日",
+    "hiragana": "ふつか",
+    "english": "the second day of the month / 2 days"
+  },
+  {
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "english": "envelope"
+  },
+  {
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "english": "winter"
+  },
+  {
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "english": "afternoon; p.m."
+  },
+  {
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "english": "morning; a.m."
+  },
+  {
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "english": "(cow's) milk"
+  },
+  {
+    "kanji": "歯",
+    "hiragana": "は",
+    "english": "tooth"
+  },
+  {
+    "kanji": "八",
+    "hiragana": "はち",
+    "english": "eight: 8"
+  },
+  {
+    "kanji": "葉書",
+    "hiragana": "はがき",
+    "english": "postcard"
+  },
+  {
+    "kanji": "母",
+    "hiragana": "はは",
+    "english": "mother"
+  },
+  {
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "english": "to enter; to go into"
+  },
+  {
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "english": "box; crate"
+  },
+  {
+    "kanji": "履く",
+    "hiragana": "はく",
+    "english": "to wear, to put on trousers"
+  },
+  {
+    "kanji": "半",
+    "hiragana": "はん",
+    "english": "half; semi-; half-past"
+  },
+  {
+    "kanji": "花",
+    "hiragana": "はな",
+    "english": "flower"
+  },
+  {
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "english": "nose"
+  },
+  {
+    "kanji": "晴れ",
+    "hiragana": "はれ",
+    "english": "clear weather"
+  },
+  {
+    "kanji": "晴れる",
+    "hiragana": "はれる",
+    "english": "to be sunny"
+  },
+  {
+    "kanji": "貼る",
+    "hiragana": "はる",
+    "english": "to stick; to paste"
+  },
+  {
+    "kanji": "春",
+    "hiragana": "はる",
+    "english": "spring; springtime"
+  },
+  {
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "english": "to run"
+  },
+  {
+    "kanji": "二十歳",
+    "hiragana": "はたち",
+    "english": "20 years old; twenty years old"
+  },
+  {
+    "kanji": "二十日",
+    "hiragana": "はつか",
+    "english": "twentieth day of the month / 20 days"
+  },
+  {
+    "kanji": "下手",
+    "hiragana": "へた",
+    "english": "unskillful; poor; awkward​"
+  },
+  {
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "english": "room"
+  },
+  {
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "english": "airplane; aircraft"
+  },
+  {
+    "kanji": "引く",
+    "hiragana": "ひく",
+    "english": "to pull"
+  },
+  {
+    "kanji": "弾く",
+    "hiragana": "ひく",
+    "english": "to play"
+  },
+  {
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "english": "short,low"
+  },
+  {
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "english": "free time"
+  },
+  {
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "english": "spacious; vast; wide"
+  },
+  {
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "english": "noon; midday; daytime; lunch"
+  },
+  {
+    "kanji": "昼ご飯",
+    "hiragana": "ひるごはん",
+    "english": "lunch"
+  },
+  {
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "english": "bookshelf; bookcase"
+  },
+  {
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "english": "thin; slender"
+  },
+  {
+    "kanji": "一番",
+    "hiragana": "いちばん",
+    "english": "number one; first; 1st, first place​; best; most​"
+  },
+  {
+    "kanji": "家",
+    "hiragana": "いえ",
+    "english": "house, residence, family"
+  },
+  {
+    "kanji": "いかが",
+    "hiragana": "",
+    "english": "how; in what way; how about​"
+  },
+  {
+    "kanji": "いくつ",
+    "hiragana": "",
+    "english": "how many?,how old?"
+  },
+  {
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "english": "english; significance; sense"
+  },
+  {
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "english": "younger sister"
+  },
+  {
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "english": "dog"
+  },
+  {
+    "kanji": "入口",
+    "hiragana": "いりぐち",
+    "english": "entrance; entry; gate"
+  },
+  {
+    "kanji": "色々",
+    "hiragana": "いろいろ",
+    "english": "various"
+  },
+  {
+    "kanji": "居る",
+    "hiragana": "いる",
+    "english": "to be, to have"
+  },
+  {
+    "kanji": "要る",
+    "hiragana": "いる",
+    "english": "to be needed"
+  },
+  {
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "english": "chair"
+  },
+  {
+    "kanji": "五日",
+    "hiragana": "いつか",
+    "english": "the fifth day of the month / 5 days"
+  },
+  {
+    "kanji": "五つ",
+    "hiragana": "いつつ",
+    "english": "five; 5"
+  },
+  {
+    "kanji": "嫌",
+    "hiragana": "いや",
+    "english": "unpleasant"
+  },
+  {
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "english": "automobile; motorcar; motor vehicle; car"
+  },
+  {
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "english": "dictionary"
+  },
+  {
+    "kanji": "丈夫",
+    "hiragana": "じょうぶ",
+    "english": "strong, durable"
+  },
+  {
+    "kanji": "上手",
+    "hiragana": "じょうず",
+    "english": "skillful; skilled; proficient; good (at)"
+  },
+  {
+    "kanji": "授業",
+    "hiragana": "じゅぎょう",
+    "english": "lesson; class work"
+  },
+  {
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "english": "ten; 10"
+  },
+  {
+    "kanji": "かばん",
+    "hiragana": "",
+    "english": "bag; basket​"
+  },
+  {
+    "kanji": "花瓶",
+    "hiragana": "かびん",
+    "english": "a vase"
+  },
+  {
+    "kanji": "角",
+    "hiragana": "かど",
+    "english": "a corner; angle​"
+  },
+  {
+    "kanji": "掛ける",
+    "hiragana": "かける",
+    "english": "to hang up; to make (a call)​;"
+  },
+  {
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "english": "spicy"
+  },
+  {
+    "kanji": "借りる",
+    "hiragana": "かりる",
+    "english": "to borrow"
+  },
+  {
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "english": "light"
+  },
+  {
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "english": "household"
+  },
+  {
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "english": "a cold"
+  },
+  {
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "english": "family; members of a family"
+  },
+  {
+    "kanji": "警官",
+    "hiragana": "けいかん",
+    "english": "policeman; police officer"
+  },
+  {
+    "kanji": "結構",
+    "hiragana": "けっこう",
+    "english": "splendid, enough"
+  },
+  {
+    "kanji": "今朝",
+    "hiragana": "けさ",
+    "english": "this morning"
+  },
+  {
+    "kanji": "消す",
+    "hiragana": "けす",
+    "english": "to erase, to turn off power"
+  },
+  {
+    "kanji": "木",
+    "hiragana": "き",
+    "english": "tree; shrub; bush; wood; timber"
+  },
+  {
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "english": "to disappear"
+  },
+  {
+    "kanji": "黄色い",
+    "hiragana": "きいろい",
+    "english": "yellow"
+  },
+  {
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "english": "to hear; to listen (to music); to ask; to learn of"
+  },
+  {
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "english": "yesterday"
+  },
+  {
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "english": "Friday"
+  },
+  {
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "english": "ticket"
+  },
+  {
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "english": "hate"
+  },
+  {
+    "kanji": "綺麗",
+    "hiragana": "きれい",
+    "english": "pretty; lovely; beautiful"
+  },
+  {
+    "kanji": "切る",
+    "hiragana": "きる",
+    "english": "to cut"
+  },
+  {
+    "kanji": "着る",
+    "hiragana": "きる",
+    "english": "to wear"
+  },
+  {
+    "kanji": "汚い",
+    "hiragana": "きたない",
+    "english": "dirty"
+  },
+  {
+    "kanji": "切手",
+    "hiragana": "きって",
+    "english": "stamp (postage)"
+  },
+  {
+    "kanji": "こっち",
+    "hiragana": "",
+    "english": "this person or way"
+  },
+  {
+    "kanji": "こちら",
+    "hiragana": "",
+    "english": "this way; this direction​"
+  },
+  {
+    "kanji": "声",
+    "hiragana": "こえ",
+    "english": "voice"
+  },
+  {
+    "kanji": "ここ",
+    "hiragana": "",
+    "english": "here; this place"
+  },
+  {
+    "kanji": "九日",
+    "hiragana": "ここのか",
+    "english": "ninth day of the month / 9 days"
+  },
+  {
+    "kanji": "九つ",
+    "hiragana": "ここのつ",
+    "english": "nine; 9"
+  },
+  {
+    "kanji": "困る",
+    "hiragana": "こまる",
+    "english": "to be troubled"
+  },
+  {
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "english": "tonight; this evening"
+  },
+  {
+    "kanji": "この",
+    "hiragana": "",
+    "english": "this​"
+  },
+  {
+    "kanji": "答える",
+    "hiragana": "こたえる",
+    "english": "to answer"
+  },
+  {
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "english": "word; words"
+  },
+  {
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "english": "black tea"
+  },
+  {
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "english": "park"
+  },
+  {
+    "kanji": "交差点",
+    "hiragana": "こうさてん",
+    "english": "intersection"
+  },
+  {
+    "kanji": "口",
+    "hiragana": "くち",
+    "english": "mouth, opening"
+  },
+  {
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "english": "fruit"
+  },
+  {
+    "kanji": "下さい",
+    "hiragana": "ください",
+    "english": "please"
+  },
+  {
+    "kanji": "曇り",
+    "hiragana": "くもり",
+    "english": "cloudiness; cloudy weather"
+  },
+  {
+    "kanji": "曇る",
+    "hiragana": "くもる",
+    "english": "to become cloudy, to become dim"
+  },
+  {
+    "kanji": "国",
+    "hiragana": "くに",
+    "english": "country; state; region"
+  },
+  {
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "english": "dark; gloomy; murky"
+  },
+  {
+    "kanji": "クラス",
+    "hiragana": "",
+    "english": "class"
+  },
+  {
+    "kanji": "黒",
+    "hiragana": "くろ",
+    "english": "black"
+  },
+  {
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "english": "black"
+  },
+  {
+    "kanji": "来る",
+    "hiragana": "くる",
+    "english": "to come"
+  },
+  {
+    "kanji": "車",
+    "hiragana": "くるま",
+    "english": "car; automobile; vehicle"
+  },
+  {
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "english": "medicine"
+  },
+  {
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "english": "shoes"
+  },
+  {
+    "kanji": "靴下",
+    "hiragana": "くつした",
+    "english": "socks"
+  },
+  {
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "english": "last year"
+  },
+  {
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "english": "today; this day"
+  },
+  {
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "english": "siblings; brothers and sisters​; mate"
+  },
+  {
+    "kanji": "教室",
+    "hiragana": "きょうしつ",
+    "english": "classroom"
+  },
+  {
+    "kanji": "九",
+    "hiragana": "きゅう",
+    "english": "nine; 9"
+  },
+  {
+    "kanji": "マッチ",
+    "hiragana": "",
+    "english": "match"
+  },
+  {
+    "kanji": "町",
+    "hiragana": "まち",
+    "english": "town; block; neighborhood"
+  },
+  {
+    "kanji": "窓",
+    "hiragana": "まど",
+    "english": "window"
+  },
+  {
+    "kanji": "前",
+    "hiragana": "まえ",
+    "english": "previous; before; in front; ago"
+  },
+  {
+    "kanji": "曲がる",
+    "hiragana": "まがる",
+    "english": "to turn, to bend"
+  },
+  {
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "english": "every morning"
+  },
+  {
+    "kanji": "毎晩",
+    "hiragana": "まいばん",
+    "english": "every night"
+  },
+  {
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "english": "every day"
+  },
+  {
+    "kanji": "毎週",
+    "hiragana": "まいしゅう",
+    "english": "every week"
+  },
+  {
+    "kanji": "毎年",
+    "hiragana": "/  まいとし / まいねん",
+    "english": "every year; yearly; annually"
+  },
+  {
+    "kanji": "毎月",
+    "hiragana": "まいつき",
+    "english": "every month; monthly"
+  },
+  {
+    "kanji": "万",
+    "hiragana": "まん",
+    "english": "10,000; ten thousand"
+  },
+  {
+    "kanji": "万年筆",
+    "hiragana": "まんねんひつ",
+    "english": "fountain pen"
+  },
+  {
+    "kanji": "丸い",
+    "hiragana": "まるい",
+    "english": "round,circular"
+  },
+  {
+    "kanji": "真っ直ぐ",
+    "hiragana": "まっすぐ",
+    "english": "straight ahead,direct"
+  },
+  {
+    "kanji": "待つ",
+    "hiragana": "まつ",
+    "english": "to wait​"
+  },
+  {
+    "kanji": "不味い",
+    "hiragana": "まずい",
+    "english": "unpleasant"
+  },
+  {
+    "kanji": "目",
+    "hiragana": "め",
+    "english": "eye"
+  },
+  {
+    "kanji": "メートル",
+    "hiragana": "",
+    "english": "metre; meter"
+  },
+  {
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "english": "glasses"
+  },
+  {
+    "kanji": "道",
+    "hiragana": "みち",
+    "english": "road; street"
+  },
+  {
+    "kanji": "緑",
+    "hiragana": "みどり",
+    "english": "green"
+  },
+  {
+    "kanji": "磨く",
+    "hiragana": "みがく",
+    "english": "to polish; to shine; to brush (e.g. teeth)"
+  },
+  {
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "english": "right; right hand side"
+  },
+  {
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "english": "short"
+  },
+  {
+    "kanji": "三日",
+    "hiragana": "みっか",
+    "english": "the third day of the month / 3 days"
+  },
+  {
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "english": "ear; hearing"
+  },
+  {
+    "kanji": "南",
+    "hiragana": "みなみ",
+    "english": "south"
+  },
+  {
+    "kanji": "皆さん",
+    "hiragana": "みなさん",
+    "english": "everyone"
+  },
+  {
+    "kanji": "みんな",
+    "hiragana": "",
+    "english": "all; everyone; everybody"
+  },
+  {
+    "kanji": "見る",
+    "hiragana": "みる",
+    "english": "to see; to look; to watch; to view; to observe"
+  },
+  {
+    "kanji": "店",
+    "hiragana": "みせ",
+    "english": "store; shop; establishment; restaurant"
+  },
+  {
+    "kanji": "見せる",
+    "hiragana": "みせる",
+    "english": "to show; to display"
+  },
+  {
+    "kanji": "三つ",
+    "hiragana": "みっつ",
+    "english": "three; 3"
+  },
+  {
+    "kanji": "水",
+    "hiragana": "みず",
+    "english": "water; fluid; liquid​"
+  },
+  {
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "english": "Thursday"
+  },
+  {
+    "kanji": "門",
+    "hiragana": "もん",
+    "english": "gate"
+  },
+  {
+    "kanji": "問題",
+    "hiragana": "もんだい",
+    "english": "problem; question (e.g. on a test)"
+  },
+  {
+    "kanji": "物",
+    "hiragana": "もの",
+    "english": "thing"
+  },
+  {
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "english": "to hold"
+  },
+  {
+    "kanji": "もっと",
+    "hiragana": "",
+    "english": "more; longer; further"
+  },
+  {
+    "kanji": "もう一度",
+    "hiragana": "もういちど",
+    "english": "once more; again"
+  },
+  {
+    "kanji": "六日",
+    "hiragana": "むいか",
+    "english": "sixth day of the month / 6 days"
+  },
+  {
+    "kanji": "向こう",
+    "hiragana": "むこう",
+    "english": "over there"
+  },
+  {
+    "kanji": "村",
+    "hiragana": "むら",
+    "english": "village"
+  },
+  {
+    "kanji": "六つ",
+    "hiragana": "むっつ",
+    "english": "six; 6"
+  },
+  {
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "english": "difficult"
+  },
+  {
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "english": "long (distance)​; long (time); lengthy."
+  },
+  {
+    "kanji": "ナイフ",
+    "hiragana": "",
+    "english": "knife"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "なか",
+    "english": "inside; in; within; center"
+  },
+  {
+    "kanji": "鳴く",
+    "hiragana": "なく",
+    "english": "animal noise. to chirp"
+  },
+  {
+    "kanji": "無くす",
+    "hiragana": "なくす",
+    "english": "to lose (something)"
+  },
+  {
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "english": "name; full name; given name"
+  },
+  {
+    "kanji": "七つ",
+    "hiragana": "ななつ",
+    "english": "seven; 7"
+  },
+  {
+    "kanji": "何",
+    "hiragana": "なに",
+    "english": "what"
+  },
+  {
+    "kanji": "七日",
+    "hiragana": "なのか",
+    "english": "seventh day of the month / 7 days"
+  },
+  {
+    "kanji": "並べる",
+    "hiragana": "ならべる",
+    "english": "to line up,to set up"
+  },
+  {
+    "kanji": "並ぶ",
+    "hiragana": "ならぶ",
+    "english": "to line up,to stand in a line"
+  },
+  {
+    "kanji": "習う",
+    "hiragana": "ならう",
+    "english": "to be taught; to learn (from a teacher)"
+  },
+  {
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "english": "summer"
+  },
+  {
+    "kanji": "夏休み",
+    "hiragana": "なつやすみ",
+    "english": "summer vacation; summer holiday"
+  },
+  {
+    "kanji": "何故",
+    "hiragana": "なぜ",
+    "english": "why; how"
+  },
+  {
+    "kanji": "猫",
+    "hiragana": "ねこ",
+    "english": "cat"
+  },
+  {
+    "kanji": "ネクタイ",
+    "hiragana": "",
+    "english": "tie; necktie"
+  },
+  {
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "english": "to sleep; to go to bed; to lie down"
+  },
+  {
+    "kanji": "二",
+    "hiragana": "に",
+    "english": "two; 2"
+  },
+  {
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "english": "Sunday"
+  },
+  {
+    "kanji": "賑やか",
+    "hiragana": "にぎやか",
+    "english": "bustling,busy"
+  },
+  {
+    "kanji": "日記",
+    "hiragana": "にっき",
+    "english": "diary; journal"
+  },
+  {
+    "kanji": "肉",
+    "hiragana": "にく",
+    "english": "meat"
+  },
+  {
+    "kanji": "荷物",
+    "hiragana": "にもつ",
+    "english": "luggage; baggage"
+  },
+  {
+    "kanji": "西",
+    "hiragana": "にし",
+    "english": "west"
+  },
+  {
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "english": "garden"
+  },
+  {
+    "kanji": "登る",
+    "hiragana": "のぼる",
+    "english": "to climb"
+  },
+  {
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "english": "drink; beverage"
+  },
+  {
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "english": "to drink"
+  },
+  {
+    "kanji": "ノート",
+    "hiragana": "",
+    "english": "notebook"
+  },
+  {
+    "kanji": "乗る",
+    "hiragana": "のる",
+    "english": "to get on (train, plane, bus, ship, etc.)"
+  },
+  {
+    "kanji": "脱ぐ",
+    "hiragana": "ぬぐ",
+    "english": "to take off clothes"
+  },
+  {
+    "kanji": "温い",
+    "hiragana": "ぬるい",
+    "english": "luke warm"
+  },
+  {
+    "kanji": "おばあさん",
+    "hiragana": "",
+    "english": "grandmother"
+  },
+  {
+    "kanji": "伯母さん",
+    "hiragana": "おばさん",
+    "english": "aunt; old lady"
+  },
+  {
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "english": "to remember"
+  },
+  {
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "english": "tea"
+  },
+  {
+    "kanji": "お風呂",
+    "hiragana": "おふろ",
+    "english": "bath"
+  },
+  {
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "english": "mother; mom; mum; ma"
+  },
+  {
+    "kanji": "お菓子",
+    "hiragana": "おかし",
+    "english": "confections; sweets; candy"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "english": "to put; to place​"
+  },
+  {
+    "kanji": "奥さん",
+    "hiragana": "おくさん",
+    "english": "wife; your wife; his wife"
+  },
+  {
+    "kanji": "お巡りさん",
+    "hiragana": " おまわりさん",
+    "english": "police officer (friendly term for policeman)"
+  },
+  {
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "english": "elder sister; young lady; miss; ma'am"
+  },
+  {
+    "kanji": "お兄さん",
+    "hiragana": "おにいさん",
+    "english": "older brother; elder brother; young man; buddy"
+  },
+  {
+    "kanji": "女",
+    "hiragana": "おんな",
+    "english": "woman; female sex"
+  },
+  {
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "english": "girl; daughter; young women"
+  },
+  {
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "english": "many; numerous; a lot; large quantity; frequent"
+  },
+  {
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "english": "crowd of people; great number of people"
+  },
+  {
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "english": "slow; time-consuming; late"
+  },
+  {
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "english": "man; male"
+  },
+  {
+    "kanji": "男の子",
+    "hiragana": "おとこのこ",
+    "english": "boy; male child; baby boy"
+  },
+  {
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "english": "adult"
+  },
+  {
+    "kanji": "一昨日",
+    "hiragana": "おととい",
+    "english": "day before yesterday"
+  },
+  {
+    "kanji": "一昨年",
+    "hiragana": "おととし",
+    "english": "year before last"
+  },
+  {
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "english": "father; dad; papa; pa; pop; daddy"
+  },
+  {
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "english": "younger brother"
+  },
+  {
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "english": "next month"
+  },
+  {
+    "kanji": "零",
+    "hiragana": "れい",
+    "english": "zero"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "english": "refrigerator"
+  },
+  {
+    "kanji": "練習",
+    "hiragana": "れんしゅう",
+    "english": "practice; practicing"
+  },
+  {
+    "kanji": "立派",
+    "hiragana": "りっぱ",
+    "english": "splendid"
+  },
+  {
+    "kanji": "廊下",
+    "hiragana": "ろうか",
+    "english": "corridor; hallway; passageway"
+  },
+  {
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "english": "travel; trip; journey; excursion; tour"
+  },
+  {
+    "kanji": "先",
+    "hiragana": "さき",
+    "english": "previous; prior; first; earlier"
+  },
+  {
+    "kanji": "作文",
+    "hiragana": "さくぶん",
+    "english": "writing; composition"
+  },
+  {
+    "kanji": "散歩",
+    "hiragana": "さんぽ",
+    "english": "walk; stroll"
+  },
+  {
+    "kanji": "再来年",
+    "hiragana": "さらいねん",
+    "english": "year after next"
+  },
+  {
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "english": "sugar"
+  },
+  {
+    "kanji": "背",
+    "hiragana": "せ",
+    "english": "height; stature; back; spine"
+  },
+  {
+    "kanji": "背広",
+    "hiragana": "せびろ",
+    "english": "business suit"
+  },
+  {
+    "kanji": "生徒",
+    "hiragana": "せいと",
+    "english": "pupil; student"
+  },
+  {
+    "kanji": "石鹼",
+    "hiragana": "せっけん",
+    "english": "soap"
+  },
+  {
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "english": "narrow"
+  },
+  {
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "english": "last month"
+  },
+  {
+    "kanji": "洗濯",
+    "hiragana": "せんたく",
+    "english": "washing; laundry"
+  },
+  {
+    "kanji": "閉まる",
+    "hiragana": "しまる",
+    "english": "to close, to be closed"
+  },
+  {
+    "kanji": "締める",
+    "hiragana": "しめる",
+    "english": "to tie; to fasten; to tighten​"
+  },
+  {
+    "kanji": "閉める",
+    "hiragana": "しめる",
+    "english": "to close; to shut"
+  },
+  {
+    "kanji": "質問",
+    "hiragana": "しつもん",
+    "english": "question; inquiry"
+  },
+  {
+    "kanji": "そば",
+    "hiragana": "",
+    "english": "near; beside"
+  },
+  {
+    "kanji": "そっち",
+    "hiragana": "",
+    "english": "that way; ​over there"
+  },
+  {
+    "kanji": "そちら",
+    "hiragana": "",
+    "english": "that way (distant from speaker, close to listener); you; your family"
+  },
+  {
+    "kanji": "空",
+    "hiragana": "そら",
+    "english": "sky; the air"
+  },
+  {
+    "kanji": "それでは",
+    "hiragana": "",
+    "english": "in that situation"
+  },
+  {
+    "kanji": "外",
+    "hiragana": "そと",
+    "english": "outside; exterior;"
+  },
+  {
+    "kanji": "掃除",
+    "hiragana": "そうじ",
+    "english": "to clean, to sweep"
+  },
+  {
+    "kanji": "直ぐに",
+    "hiragana": " すぐに",
+    "english": "immediately; right away; instantly​"
+  },
+  {
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "english": "few; a little; scarce; insufficient; seldom"
+  },
+  {
+    "kanji": "ストーブ",
+    "hiragana": "",
+    "english": "heater; stove"
+  },
+  {
+    "kanji": "吸う",
+    "hiragana": "すう",
+    "english": "to smoke, to suck"
+  },
+  {
+    "kanji": "涼しい",
+    "hiragana": "すずしい",
+    "english": "refreshing, cool"
+  },
+  {
+    "kanji": "大使館",
+    "hiragana": "たいしかん",
+    "english": "embassy"
+  },
+  {
+    "kanji": "頼む",
+    "hiragana": "たのむ",
+    "english": "to ask"
+  },
+  {
+    "kanji": "縦",
+    "hiragana": "たて",
+    "english": "length,height"
+  },
+  {
+    "kanji": "テスト",
+    "hiragana": "",
+    "english": "examination; quiz; test"
+  },
+  {
+    "kanji": "戸",
+    "hiragana": "と",
+    "english": "Japanese style door"
+  },
+  {
+    "kanji": "トイレ",
+    "hiragana": "",
+    "english": "toilet"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "とき",
+    "english": "time; moment; occasion; chance"
+  },
+  {
+    "kanji": "所",
+    "hiragana": "ところ",
+    "english": "place"
+  },
+  {
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "english": "far"
+  },
+  {
+    "kanji": "十日",
+    "hiragana": "とおか",
+    "english": "tenth day of the month / 10 days"
+  },
+  {
+    "kanji": "撮る",
+    "hiragana": "とる",
+    "english": "to take a photo or record a film"
+  },
+  {
+    "kanji": "取る",
+    "hiragana": "とる",
+    "english": "to take; to pick up; to harvest; to earn; to win; to choose"
+  },
+  {
+    "kanji": "年",
+    "hiragana": "とし",
+    "english": "year; age"
+  },
+  {
+    "kanji": "一日",
+    "hiragana": "ついたち",
+    "english": "first day of the month"
+  },
+  {
+    "kanji": "疲れる",
+    "hiragana": "つかれる",
+    "english": "to get tired"
+  },
+  {
+    "kanji": "つける",
+    "hiragana": "",
+    "english": "to turn on"
+  },
+  {
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "english": "desk"
+  },
+  {
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "english": "cold to the touch"
+  },
+  {
+    "kanji": "勤める",
+    "hiragana": "つとめる",
+    "english": "to work for someone"
+  },
+  {
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "english": "powerful"
+  },
+  {
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "english": "to be born"
+  },
+  {
+    "kanji": "売る",
+    "hiragana": "うる",
+    "english": "to sell"
+  },
+  {
+    "kanji": "煩い",
+    "hiragana": "うるさい",
+    "english": "noisy, annoying"
+  },
+  {
+    "kanji": "薄い",
+    "hiragana": "うすい",
+    "english": "thin; weak"
+  },
+  {
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "english": "to sing"
+  },
+  {
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "english": "coat; tunic; jacket; outer garment"
+  },
+  {
+    "kanji": "ワイシャツ",
+    "hiragana": "",
+    "english": "shirt"
+  },
+  {
+    "kanji": "若い",
+    "hiragana": "わかい",
+    "english": "young"
+  },
+  {
+    "kanji": "渡る",
+    "hiragana": "わたる",
+    "english": "to go across"
+  },
+  {
+    "kanji": "八百屋",
+    "hiragana": "やおや",
+    "english": "greengrocer; fruit and vegetable shop; versatile"
+  },
+  {
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "english": "vegetable"
+  },
+  {
+    "kanji": "易しい",
+    "hiragana": "やさしい",
+    "english": "easy, simple"
+  },
+  {
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "english": "cheap; inexpensive"
+  },
+  {
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "english": "to be absent; to take a day off; to rest"
+  },
+  {
+    "kanji": "八つ",
+    "hiragana": "やっつ",
+    "english": "eight: 8"
+  },
+  {
+    "kanji": "呼ぶ",
+    "hiragana": "よぶ",
+    "english": "to call out, to invite"
+  },
+  {
+    "kanji": "良い",
+    "hiragana": "/ よい/いい",
+    "english": "good"
+  },
+  {
+    "kanji": "四日",
+    "hiragana": "よっか",
+    "english": "fourth day of the month / 4 days"
+  },
+  {
+    "kanji": "横",
+    "hiragana": "よこ",
+    "english": "beside,side,width"
+  },
+  {
+    "kanji": "よく",
+    "hiragana": "",
+    "english": "often, well"
+  },
+  {
+    "kanji": "夜",
+    "hiragana": "よる",
+    "english": "evening; night"
+  },
+  {
+    "kanji": "四つ",
+    "hiragana": "よつ",
+    "english": "four; 4"
+  },
+  {
+    "kanji": "洋服",
+    "hiragana": "ようふく",
+    "english": "western clothes"
+  },
+  {
+    "kanji": "八日",
+    "hiragana": "ようか",
+    "english": "eighth day of the month / 8 days"
+  },
+  {
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "english": "weak"
+  },
+  {
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "english": "snow"
+  },
+  {
+    "kanji": "ゆっくり",
+    "hiragana": "",
+    "english": "slowly"
+  },
+  {
+    "kanji": "昨夜",
+    "hiragana": "ゆうべ",
+    "english": "last night"
+  },
+  {
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "english": "post office"
+  },
+  {
+    "kanji": "夕方",
+    "hiragana": "ゆうがた",
+    "english": "evening; dusk"
+  },
+  {
+    "kanji": "夕飯",
+    "hiragana": "ゆうはん",
+    "english": "evening meal"
+  },
+  {
+    "kanji": "ズボン",
+    "hiragana": "",
+    "english": "trousers; pants"
+  }
+]
